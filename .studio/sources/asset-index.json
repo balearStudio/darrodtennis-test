@@ -1,0 +1,381 @@
+{
+  "root": "",
+  "images": [
+    {
+      "file": "site-19.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 333196,
+      "resolution": "high",
+      "quality": "good",
+      "notes": "Kids playing tennis on clay court with facility in background. Excellent lighting and composition. Source: site",
+      "suggestedUse": "hero"
+    },
+    {
+      "file": "site-20.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 330831,
+      "resolution": "high",
+      "quality": "good",
+      "notes": "Empty tennis court with palms and facility. Clear daylight, professional photo. Source: site",
+      "suggestedUse": "hero"
+    },
+    {
+      "file": "site-18.webp",
+      "width": 1920,
+      "height": 700,
+      "bytes": 95968,
+      "resolution": "high",
+      "quality": "good",
+      "notes": "Tennis court landscape with facility. Excellent for wide headers or banners. Source: site",
+      "suggestedUse": "hero"
+    },
+    {
+      "file": "site-16.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 41504,
+      "resolution": "high",
+      "quality": "good",
+      "notes": "Tennis court facility landscape with net and equipment. Good for hero or gallery. Source: site",
+      "suggestedUse": "hero"
+    },
+    {
+      "file": "fb-01.jpg",
+      "width": 1640,
+      "height": 924,
+      "bytes": 171510,
+      "resolution": "high",
+      "quality": "good",
+      "notes": "Kids in action on clay court, vibrant colors. Good for promotional content. Source: facebook",
+      "suggestedUse": "hero"
+    },
+    {
+      "file": "site-02.jpg",
+      "width": 1200,
+      "height": 600,
+      "bytes": 22816,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Landscape orientation, facility overview. Source: site",
+      "suggestedUse": "gallery"
+    },
+    {
+      "file": "site-03.jpg",
+      "width": 1200,
+      "height": 600,
+      "bytes": 28032,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Landscape orientation, similar to site-02. Source: site",
+      "suggestedUse": "gallery"
+    },
+    {
+      "file": "site-04.jpg",
+      "width": 1200,
+      "height": 600,
+      "bytes": 19415,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Landscape orientation, facility photo. Source: site",
+      "suggestedUse": "gallery"
+    },
+    {
+      "file": "site-01.jpg",
+      "width": 820,
+      "height": 1024,
+      "bytes": 159099,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Portrait team or player photo with bright background. Source: site",
+      "suggestedUse": "team"
+    },
+    {
+      "file": "site-05.jpg",
+      "width": 800,
+      "height": 1000,
+      "bytes": 133028,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Portrait player or team photo. Source: site",
+      "suggestedUse": "team"
+    },
+    {
+      "file": "site-06.jpg",
+      "width": 800,
+      "height": 1000,
+      "bytes": 133307,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Portrait player or team photo. Source: site",
+      "suggestedUse": "team"
+    },
+    {
+      "file": "site-07.jpg",
+      "width": 800,
+      "height": 1000,
+      "bytes": 118776,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Portrait player or team photo. Source: site",
+      "suggestedUse": "team"
+    },
+    {
+      "file": "site-08.jpg",
+      "width": 800,
+      "height": 1000,
+      "bytes": 117345,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Portrait player or team photo. Source: site",
+      "suggestedUse": "team"
+    },
+    {
+      "file": "site-09.jpg",
+      "width": 800,
+      "height": 1000,
+      "bytes": 127739,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Portrait player or team photo. Source: site",
+      "suggestedUse": "team"
+    },
+    {
+      "file": "site-17.jpg",
+      "width": 900,
+      "height": 600,
+      "bytes": 92669,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Landscape tennis scene with facility. Source: site",
+      "suggestedUse": "gallery"
+    },
+    {
+      "file": "site-10.jpg",
+      "width": 600,
+      "height": 600,
+      "bytes": 26735,
+      "resolution": "ok",
+      "quality": "usable",
+      "notes": "Square coach/trainer portrait on beach with facility backdrop. Source: site",
+      "suggestedUse": "team"
+    },
+    {
+      "file": "site-11.jpg",
+      "width": 600,
+      "height": 600,
+      "bytes": 35294,
+      "resolution": "ok",
+      "quality": "usable",
+      "notes": "Square format portrait. Source: site",
+      "suggestedUse": "team"
+    },
+    {
+      "file": "site-12.png",
+      "width": 502,
+      "height": 530,
+      "bytes": 84067,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Federation logo graphic (FTGC - Federación de Tenis de Gran Canaria). Potential logo use. Source: site",
+      "suggestedUse": "logo"
+    },
+    {
+      "file": "site-15.png",
+      "width": 1024,
+      "height": 640,
+      "bytes": 16106,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Kayak brand logo. Clean, standalone. Source: site",
+      "suggestedUse": "logo"
+    },
+    {
+      "file": "fb-02.png",
+      "width": 180,
+      "height": 180,
+      "bytes": 15023,
+      "resolution": "low",
+      "quality": "good",
+      "notes": "Small DaRro Tennis Academy logo. Too small for most uses but suitable for favicon/icon. Source: facebook",
+      "suggestedUse": "logo"
+    },
+    {
+      "file": "site-13.jpg",
+      "width": 570,
+      "height": 357,
+      "bytes": 15016,
+      "resolution": "low",
+      "quality": "usable",
+      "notes": "Small landscape, facility overview. Limited use due to size. Source: site",
+      "suggestedUse": "gallery"
+    },
+    {
+      "file": "site-14.jpg",
+      "width": 600,
+      "height": 300,
+      "bytes": 21591,
+      "resolution": "low",
+      "quality": "usable",
+      "notes": "Wide landscape, limited height. Suitable for thin horizontal sections. Source: site",
+      "suggestedUse": "gallery"
+    },
+    {
+      "file": "ig-10.jpg",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 207210,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Team photo with championship frame overlay. Bright colors, perfect for social media and gallery. Source: instagram",
+      "suggestedUse": "gallery"
+    },
+    {
+      "file": "ig-08.jpg",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 167530,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Championship announcement design with trophy and player. Good for promotional posts. Source: instagram",
+      "suggestedUse": "gallery"
+    },
+    {
+      "file": "ig-09.jpg",
+      "width": 1080,
+      "height": 1088,
+      "bytes": 116343,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Team members on court with trophy/achievement theme. Source: instagram",
+      "suggestedUse": "gallery"
+    },
+    {
+      "file": "ig-13.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 111016,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Portrait format, kids/young players. Suitable for Instagram stories or mobile content. Source: instagram",
+      "suggestedUse": "gallery"
+    },
+    {
+      "file": "ig-01.jpg",
+      "width": 750,
+      "height": 750,
+      "bytes": 42819,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Square Instagram post, player portrait or action shot. Source: instagram",
+      "suggestedUse": "gallery"
+    },
+    {
+      "file": "ig-04.jpg",
+      "width": 640,
+      "height": 1136,
+      "bytes": 132569,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Vertical story format, kids on beach training. Energetic and engaging. Source: instagram",
+      "suggestedUse": "gallery"
+    },
+    {
+      "file": "ig-02.jpg",
+      "width": 640,
+      "height": 1136,
+      "bytes": 123135,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Vertical story format, kids at coast location with sea background. Source: instagram",
+      "suggestedUse": "gallery"
+    },
+    {
+      "file": "ig-06.jpg",
+      "width": 640,
+      "height": 1136,
+      "bytes": 73719,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Vertical story format, player or team content. Source: instagram",
+      "suggestedUse": "gallery"
+    },
+    {
+      "file": "ig-07.jpg",
+      "width": 640,
+      "height": 1136,
+      "bytes": 44859,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Vertical story format. Source: instagram",
+      "suggestedUse": "gallery"
+    },
+    {
+      "file": "ig-11.jpg",
+      "width": 640,
+      "height": 1136,
+      "bytes": 89728,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Vertical story format. Source: instagram",
+      "suggestedUse": "gallery"
+    },
+    {
+      "file": "ig-12.jpg",
+      "width": 640,
+      "height": 1136,
+      "bytes": 36710,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Vertical story format. Source: instagram",
+      "suggestedUse": "gallery"
+    },
+    {
+      "file": "ig-03.jpg",
+      "width": 640,
+      "height": 1136,
+      "bytes": 30487,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Vertical story format. Source: instagram",
+      "suggestedUse": "gallery"
+    },
+    {
+      "file": "ig-05.jpg",
+      "width": 640,
+      "height": 360,
+      "bytes": 31504,
+      "resolution": "ok",
+      "quality": "good",
+      "notes": "Horizontal format, wide aspect ratio. Source: instagram",
+      "suggestedUse": "gallery"
+    }
+  ],
+  "documents": [],
+  "skipped": 0,
+  "gaps": [],
+  "summary": {
+    "quality_breakdown": {
+      "good": 28,
+      "usable": 7
+    },
+    "resolution_breakdown": {
+      "high": 5,
+      "ok": 27,
+      "low": 3
+    },
+    "hero_candidates": [
+      "site-19.webp (1920x1080)",
+      "site-20.jpg (1600x900)",
+      "site-18.webp (1920x700)",
+      "site-16.jpg (1600x900)",
+      "fb-01.jpg (1640x924)"
+    ],
+    "logo_candidates": [
+      "site-12.png (Federation logo)",
+      "site-15.png (Kayak logo)",
+      "fb-02.png (DaRro Tennis Academy logo)"
+    ]
+  }
+}

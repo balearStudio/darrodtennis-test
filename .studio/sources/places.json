@@ -1,0 +1,169 @@
+{
+  "fetchedAt": "2026-09-19T09:39:30.400Z",
+  "query": "Darrod Tennis Academy",
+  "candidates": [
+    {
+      "id": "ChIJvUb9cXljPwwRbaeRjkQTbE4",
+      "name": "Darrod Tennis Academy",
+      "address": "C. las Margaritas, S/N, 35100 Maspalomas, Las Palmas, España"
+    }
+  ],
+  "place": {
+    "id": "ChIJvUb9cXljPwwRbaeRjkQTbE4",
+    "name": "Darrod Tennis Academy",
+    "address": "C. las Margaritas, S/N, 35100 Maspalomas, Las Palmas, España",
+    "phone": "+34 656 60 45 77",
+    "website": "http://darrodtennisacademy.com/",
+    "mapsUrl": "https://maps.google.com/?cid=5650912817613743981&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "location": {
+      "latitude": 27.7728149,
+      "longitude": -15.5474509
+    },
+    "rating": 5,
+    "reviewCount": 174,
+    "primaryType": "sports_club",
+    "types": [
+      "sports_club",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": null,
+    "summary": null,
+    "openingHours": [
+      "lunes: 8:00–21:00",
+      "martes: 8:00–21:00",
+      "miércoles: 8:00–21:00",
+      "jueves: 8:00–21:00",
+      "viernes: 8:00–21:00",
+      "sábado: 8:00–21:00",
+      "domingo: 8:00–21:00"
+    ],
+    "reviews": [
+      {
+        "author": "alberto ochotta",
+        "rating": 5,
+        "publishedAt": "2026-03-29T21:13:07.716155058Z",
+        "text": "Si queres sentir lo que siente un Darrod te esperamos!\nBuen ambiente, profesionalismo y mucha energía 🎾"
+      },
+      {
+        "author": "Daniel Pérez Ambrosí",
+        "rating": 5,
+        "publishedAt": "2024-01-07T14:45:23.904537Z",
+        "text": "Dani y su equipo son increíbles.\n\nHe aprendido más de tenis en tres días con ellos que en todo un año con otro entrenador. Algo que me gustó muchísimo es poder pelotear o entrenar con otros alumnos de niveles parecidos.\n\nSin duda el mejor entrenador de tenis y aún mejor persona de Gran Canaria."
+      },
+      {
+        "author": "Ángel Díaz Manchón",
+        "rating": 5,
+        "publishedAt": "2020-11-16T20:15:48.261360Z",
+        "text": "El equipo de entrenadores son muy buenos profesionales. Te atienden amablemente, te enseñan, corrigen y gracias a ello mejoras mucho, tanto a nivel técnico como en la táctica de partido. Esta academia es el lugar perfecto para aprender o mejorar en tenis. También es un lugar donde conocer a personas y hacer amigos. Recomiendo este club como uno de los mejores de Gran Canaria."
+      },
+      {
+        "author": "Rudolf Trafoier",
+        "rating": 5,
+        "publishedAt": "2025-02-19T14:14:39.641602Z",
+        "text": "Daniel es un profesor muy simpático que sabe evaluar correctamente a jugadores como yo, que estamos en una edad avanzada. Identifica claramente los puntos débiles y los explica de manera comprensible, además de mostrar los pasos necesarios para mejorar el juego de forma sencilla.\n\nLas tres horas fueron geniales, ¡gracias, Daniel!\n\nRudolf"
+      },
+      {
+        "author": "Jon Martinez",
+        "rating": 5,
+        "publishedAt": "2020-11-17T18:31:20.158298Z",
+        "text": "Fuimos a Canarias diez días de vacaciones y contactamos con Dani para dar unas clases de tenis. La verdad es que ha sido todo un acierto. La cria ha salido encantada y lo que es más importante con ganas de volver. El trato fenomenal,  siempre atentos, profesionales y en un ambiente muy agradable tanto por parte de los profesores como por parte de los alumnos. Sin duda, cuando volvamos por las islas volveremos."
+      }
+    ],
+    "photos": [
+      {
+        "name": "places/ChIJvUb9cXljPwwRbaeRjkQTbE4/photos/AVoNoXToDOwC6aESKuZpQkkLxxu3-qxa917bG4n5axwhADXtnyxjoiHSfElopzNV6qANWi-AZTj7vhZJFBCFxiw_SgYLwRU5xB8sISCFsW7XcL0nWHe1k0aAA11Z6VLEV4bXkKWBEzEikc3f2-XWc4DyNQuPj9dp8WwOdF2yZfqRyDoHzC9eWzY6LeSOD3eqRTunigA0eZqfOOdMmnZSu-6dhaeM9eMT9EedfgfDBxtwhioTrL3kS66UEAmwA0zMcSuDLlzuZNtQVQdF5jbzAHfnBobBY24TEKZkkDH3MQma2oTPFIVsCzQzazMoOHX70bktd6vM9q5nI4KSW-U7FKfXZIMELCjYSsFqcbxhMzYA37_pAZj5WAJRbipxm7Ownv2Y1iqqb_gvty96Q5JIF7F6p5eyGEuecYmYzBTQ6KrAdc76vo0A",
+        "widthPx": 3024,
+        "heightPx": 4032,
+        "attributions": [
+          "Darrod Tennis Academy"
+        ]
+      },
+      {
+        "name": "places/ChIJvUb9cXljPwwRbaeRjkQTbE4/photos/AVoNoXRSbuqMO4CqtPKgzVeLbaqqoOda_LqCt5QDzbECtOVYpEZ0U3zWJzUxcyIY_v6DeyG4RfMs7bkWovsigYumtTHIdAvuWuh1zES4qgK-9P0pxiqf4eby8ZtFLPi_AJADXosva3KoG61rFY73vtRIQGWcv2JXyYsqC8WdrcTeGm9XsKlGHDdV-ThUq9W5WroiSHdnOpy8SqWVtshvNwmUN5cvp0ejJ7oW3u_K9k2QhDDeYy7GunC0UGe_CmnHLrmVF4b4zeVd2oE1L7Jaao6saiypwncelWjC700Vf_Nv53N0QEWxbJya3bzGf4ms8xmwk_8cltvsH3YkNouZ7nnPtqdC0yd22A4R-hlbfY_iLCLB0ukXhc-M9OHI7F3xBNzQy2mUbRcIxFVYGj58uBmMwUcmxZRr2wPiqdxvr00UZK1YSG8H",
+        "widthPx": 918,
+        "heightPx": 688,
+        "attributions": [
+          "Federación Tenis Gran Canaria"
+        ]
+      },
+      {
+        "name": "places/ChIJvUb9cXljPwwRbaeRjkQTbE4/photos/AVoNoXTUAGO67JliBIrcBJmTeF5_MTc09Pa1LmunW2PML0ek5jBxpZ4053W77MtGob9pQRrx5F0Kx-KzHlWgzHgOGVEYnHNbDgpzHHlQgJrHqWeF9Bk9a7nR0_8iGIWng97dg_vt6i3wf0WjOVDxSdgV6QZa8jQRLpyFLLcD4QyiX7zvLw3LyK9y4gUpRTrv2Rh3ECeySyMGVW6fxkRCdufcyALzVftnh2xLGJBbkh29lL1nooqnwN2rNedvL4RABtjZVN4P8XB__NQOkoReAnPUhr3MCS-xiZfWyVqI-Ym6J0I8IDjD8X_7xDOSeuaOIrQtLiJg1LDw8cJTzzwv3mE_Ha_4eTB90jTPhJNA64SALAoTo4GzIDKuzSA-ZrW2QshPz7XRjvfwCdz6x9mWAD1mZfrhWjgUhOqO5JG2GKUkb6gYyP5a",
+        "widthPx": 1080,
+        "heightPx": 1080,
+        "attributions": [
+          "Darrod Tennis Academy"
+        ]
+      },
+      {
+        "name": "places/ChIJvUb9cXljPwwRbaeRjkQTbE4/photos/AVoNoXS_BdD3kTf0-LEumZfmkx3YlNNP_ai8pC-v3PhpjWAPKWtgzJ2tU_xivSk60bOREk_574o7e0hHNfUxz-HwhyeIVQjLM8Gd4bfevHRHOGpjKg-oEDMwuLpZwEj5WGxF9CWFT8RGA3YwTdeu3BCT5oMAI_Gef1qrbtLkk7ZbDmpimrMGQ65IrETFg39KXv-5fhxGLMZB7ckVVDZdsxKDmazznbQWg_MtRozw2pU5GXJYhobSdZm7IsSR_RcTta_VKpF-ryXCnYhwLMKAejKlgRzm5s-vPJd9t9wPrPB90fBdJK_lDzU0B3TVQaCZ_kHbAGXQtRanRMch_XxJfXPxstfbWCZ5bHeAcU7Fyd6z1YZ4gteFfRel1RNPGFd2Rxj6Ct-eKQbY4M3EJN7YCOQafNT0qdhsplt2SHJCg43Mk1YRzQ5_",
+        "widthPx": 1125,
+        "heightPx": 1396,
+        "attributions": [
+          "Darrod Tennis Academy"
+        ]
+      },
+      {
+        "name": "places/ChIJvUb9cXljPwwRbaeRjkQTbE4/photos/AVoNoXQec9TxpUh3muHnlQJafXD1ZdExaEW1UDlDKtsZfuCdyIpCVrvnUeV_3NO8fWsjppSQrWa23e4q4HSlTJx-pgAlhKAFsWpExaV_ZQVGcuaFRcb2uv1SzxwOPBgc39v0wm_ftjyyLASm1FeX-lTMo7NHlQHPocsAZBbGzHHLrSf43Q-gJg5sQfUUU6a010pYiHnzWie2iTO0hqs5FgX0WRGrRojlu_bQvdbinKDmxKKxyF4JiQKjKW9jk6qyOIaVFvQavWyXXTfrisMzCD89xgLp8g8enyzOH3DJlFssU_qkCzVSbRkBZXKhkj5CsmgofiDTk-GlcNjvF67v7VSVCHHYHT43QPaxhjDZdISVaoqXqXDOgsdKBDYuLtPr5L9Icz17NJsRzWVplPC-YSswi_ELUSBzLHftSz6T1IKGoZwgEQ",
+        "widthPx": 1836,
+        "heightPx": 1377,
+        "attributions": [
+          "Darrod Tennis Academy"
+        ]
+      },
+      {
+        "name": "places/ChIJvUb9cXljPwwRbaeRjkQTbE4/photos/AVoNoXT-4l1Hh6BrSJUzzL-993wO4Fw7jUm4FxEHf1BZeErf8i08fV6VWgwjFGWlgskQlOwd_Kad-vorTjAv4It9bWaT8jLyIqsXJXlYiWPVxBfyxceOyT27YgWEdVPI9BwcxNmzP5dkQ0BVbEPs7lr1poYf3E8EcRN14c82jFG-ZZj5PG88csU7mPbEHjG-yqEsWi1Jk4v9A7lG2VVMTc_2sbXX3lPLxg4fgAjsNAgg272sGQ8Qxbfe7JTGRpzyH0p7SZ6PKTCcIQOqYj8kDQ6xad9E7EgfK3qfHf6zRIsE86qs4yQOz53fuCS4_USzK4NJglvLEFRnxo-NlmaAodsWAiKxZPIdHIGVO7isOklf8sl4-Pfi-M9yIQlCYsPt0zfB5buPtd6sAbv-cKgmS0RiVJP9yir7YFT1L3lK15PkGGY",
+        "widthPx": 4032,
+        "heightPx": 3024,
+        "attributions": [
+          "Darrod Tennis Academy"
+        ]
+      },
+      {
+        "name": "places/ChIJvUb9cXljPwwRbaeRjkQTbE4/photos/AVoNoXTKXnbdZxF8F1PJFCmzNKzBp8WL2qUTEpd6Jnc9nkYw27IsxwH5y30qIGMmBjDQy3k4Nk60bGuRONTPkwQyNrKtxpFKRMua7q5e8SnlTiwuh9JnOVthVcAAA2B9oFNtA5MAu7mejeQEdtzpQH0TYxtVdGyeZ6SXdqezJ0Dn2fhDuomrTXrvto8zcEzsQtOW8c8lri5c1StAH4lUK5mHOK4PqSybfaK5n7KkazKXixID76JnhZrX5Rd56VMGOjOpNaOACzGWjPYRErVQaHwBu09sOMkM6Zypn3x9teY6YHj_a8Zluj0RT1amUW4TNvPVffsJsiIxYwZ1j32PlxxJbk026--mmI1uKyzBWR1onrNbeS47iQJIwP0F2u_yBHvwK_o0YudDnNs7BMQUxBsYBVN5qohpLzU6H-wmHrd_Sbr_FsxQ",
+        "widthPx": 4032,
+        "heightPx": 3024,
+        "attributions": [
+          "Daniel Rodriguez"
+        ]
+      },
+      {
+        "name": "places/ChIJvUb9cXljPwwRbaeRjkQTbE4/photos/AVoNoXQN9OyhbnM8VGogW3or_S9ekzEqe9-6AWDVKNS6DeZxikTwr8WjL1brLUGBtMz-Q7NvnI8GN4-IqkLTzWFBexwnJLU3vT2oXKbfSZynkAIHDfvqQ4wRRKqLkYUtd87Ev1xXaTxI8u5W9hNdsIr6iXPAUZV7dT12sFKppzIwO_p2LCNpACHFZAtm4vb2XXSxS2LMpp-bxKRVc8z1EgtRDRKHGVYSq75NRjKI2KL9s6L9CHZMO4UoVxZJm7I_GcyuaIQQLwtXwuoWx6V5sNJm9dEIFHJj7TJ_ABo_QJE6kJ57KGMypVTkWqCwc65j7o8xX34iFOzcej2kzMTULECdIm1vh5pV7LTmh0lclLxUolYcMyEbdkPc33_zxYlIKjp5G2l0pI_jv4KPD97CoFWP2WYFHz3s0HLCOw1H3ipl3HFrAnCg",
+        "widthPx": 2048,
+        "heightPx": 1180,
+        "attributions": [
+          "Darrod Tennis Academy"
+        ]
+      },
+      {
+        "name": "places/ChIJvUb9cXljPwwRbaeRjkQTbE4/photos/AVoNoXSGv37EsXcZ4968rEDoNVTWcjAX_KNoWFbfTA1sIFUfigOAOY9M5pWdK1yo_HVBDqfkUrr-mwrNoHsrtS9oqipQ_1uzd7sL8WkBm8aUSo3kTwLVLmyed4885_rlrXV9Z5PGpqK6kmBNpcvN7In4Xr6d-DPG1bL9-yNZCvl0seP08bxzlPXCwferYj0Ze7C1gEeOevW4GSbrhjTggoyCu9S6U7ZsRmPDHFUcly8725HFm9idvphre-dn_DiAwrkzVsCuqEKQn7oX1nqQHhn5EnP63dxs-rYils6WrKr52_-UPpamzIKFXbWXqEXx0AdTS0HLMDI32YMO4R7hYn4gPjwQYGKRaLTrktyXJ1H7Vhve55z0KvvF83RHW9onvNqd-C5PHCW8lhhpdkL6RVy4-9_7Z6_7d3Q1JlWTnmRmqp6_2yU",
+        "widthPx": 4000,
+        "heightPx": 2992,
+        "attributions": [
+          "Esa Lehtola"
+        ]
+      },
+      {
+        "name": "places/ChIJvUb9cXljPwwRbaeRjkQTbE4/photos/AVoNoXQbrzQ5xnXFmtPYcl17pvCEkdY_m8J30uR7yGOc7XI88Fs0YLE9lxuTVwxXmgnypA5fOmumZWeb7nn1WWiNWUnsg5cUonTPcXov3pPQFPPpmdUAVCftAr16s9U1ucYn-IreOuJjnarIdLacaiYMxIp3aUMcfm9R8FlUgzWo-Y76uJxBpYxccCAM4Sqet2OoAhbxlQ-egOVPwI-g61yZkWKdQm6ZIq-3f8M617Fe3kIBk7TNnAUQsSxFvLFVtcRmyv45A8WV7WKUCNgQqgeAsHnWllY6ojV1DCebyOowVb80Ccj55TjokEK76iY1Z8pr84UApTRkcE3iCDtvvWtQTtMTI0Rjt5Mp8WdQh1ukbsQogMO_bI1T1K9GRsWOAaWQBz3P1p6xsmfWkCtl1y43x7Zf-YKM-37jot8_t9juVWBkUISr",
+        "widthPx": 4032,
+        "heightPx": 3024,
+        "attributions": [
+          "Darrod Tennis Academy"
+        ]
+      }
+    ]
+  },
+  "limits": "Official Places API returns at most 5 reviews and a limited number of photos; not the full review history.",
+  "cost": {
+    "usd": 0.057,
+    "eur": 0.0497,
+    "requests": 2,
+    "fx": {
+      "rate": 0.871262,
+      "source": "live",
+      "asOf": "Sat, 19 Sep 2026 00:02:31 +0000"
+    }
+  }
+}

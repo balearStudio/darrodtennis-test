@@ -1,6 +1,6 @@
 {
   "slug": "darrodtennis-test",
-  "stage": "intake",
+  "stage": "research",
   "stages": [
     "intake",
     "research",
@@ -13,9 +13,9 @@
   ],
   "checkpoints": {
     "checkpoint-1-research": {
-      "status": "pending",
-      "approvedBy": null,
-      "approvedAt": null
+      "status": "approved",
+      "approvedBy": "Christian Reyes",
+      "approvedAt": "2026-09-19T09:57:42.125Z"
     },
     "checkpoint-2-moodboard": {
       "status": "pending",
@@ -43,8 +43,20 @@
       "stage": "intake",
       "event": "init",
       "note": null
+    },
+    {
+      "at": "2026-09-19T09:38:54.498Z",
+      "stage": "research",
+      "event": "stage-change",
+      "note": null
+    },
+    {
+      "at": "2026-09-19T09:57:42.126Z",
+      "stage": "research",
+      "event": "checkpoint-approved:checkpoint-1-research",
+      "note": null
     }
   ],
   "createdAt": "2026-09-19T09:33:35.249Z",
-  "updatedAt": "2026-09-19T09:33:35.264Z"
+  "updatedAt": "2026-09-19T09:57:42.127Z"
 }

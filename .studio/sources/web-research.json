@@ -1,0 +1,59 @@
+{
+  "fetchedAt": "2026-09-19T00:00:00Z",
+  "findings": [
+    {
+      "type": "directory",
+      "title": "TripAdvisor - Darrod Tennis Academy Reviews",
+      "url": "https://www.tripadvisor.com/Attraction_Review-g562819-d24069619-Reviews-Darrod_Tennis_Academy-Playa_del_Ingles_Maspalomas_San_Bartolome_de_Tirajana_Gran.html",
+      "date": "2026-07-01",
+      "summary": "TripAdvisor listing with 5.0/5 rating. Recent customer (July 2026) praised staff and welcoming atmosphere. Another reviewer (Nov 2022) praised coaching quality and facilities.",
+      "quote": "My son has been training here this summer while on holiday. He has enjoyed it so much and feels like part of the club already."
+    },
+    {
+      "type": "directory",
+      "title": "Wanderlog - Darrod Tennis Academy Travel Guide",
+      "url": "https://wanderlog.com/place/details/7535523/darrod-tennis-academy",
+      "date": null,
+      "summary": "Travel guide listing with Google rating of 5.0/5 (173 reviews). Highlights personalized coaching, coach Daniel's reputation, and facility quality.",
+      "quote": "skilled and thoughtful coach who excels at connecting with players of all ages, including children"
+    },
+    {
+      "type": "directory",
+      "title": "eInforma - Business Registry",
+      "url": "https://www.einforma.com/informacion-empresa/darrod-tennis-academy",
+      "date": "2020-07-08",
+      "summary": "Spanish business registry entry. DARROD TENNIS ACADEMY, SOCIEDAD LIMITADA (single-member LLC). Registered July 8, 2020. CIF: B01712488. CNAE 9311 (sports facility management). Located in San Bartolomé de Tirajana, Las Palmas.",
+      "quote": null
+    },
+    {
+      "type": "directory",
+      "title": "Trip.com - Travel Attraction Listing",
+      "url": "https://www.trip.com/travel-guide/attraction/playa-del-ingles/darrod-tennis-academy-136082468",
+      "date": null,
+      "summary": "Online travel agency listing with venue details, hours (8AM-9PM daily), facilities description, and booking information.",
+      "quote": null
+    },
+    {
+      "type": "mention",
+      "title": "Sunbonoo - Tennis Activity Listing",
+      "url": "https://www.sunbonoo.com/en/gran-canaria-tennis-maspalomas-4634",
+      "date": null,
+      "summary": "Activity guide listing Darrod Tennis Academy as tennis class option in Maspalomas with personalized coaching information.",
+      "quote": null
+    },
+    {
+      "type": "social",
+      "title": "Facebook Page - Darrod Tennis Academy",
+      "url": "https://www.facebook.com/darrodtennis/",
+      "date": null,
+      "summary": "Official Facebook page for the academy (community engagement and updates).",
+      "quote": null
+    }
+  ],
+  "gaps": [
+    "No press releases or media coverage found in public search results",
+    "No awards or specific accolades identified in search results",
+    "No news articles or press mentions found",
+    "Limited recent media coverage (most recent publicly indexed content from 2022-2026)"
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "slug": "darrodtennis-test",
+  "generatedAt": "2026-09-19T10:00:00Z",
+  "identity": {
+    "name": "Darrod Tennis Academy",
+    "tagline": "Bienvenidos a una experiencia de tenis única. Tu academia de tenis en Maspalomas.",
+    "sector": "Tennis academy (tennis and padel lessons)",
+    "location": "Maspalomas / Playa del Inglés, Gran Canaria, Spain",
+    "founded": "2020 (company registered 2020-07-08; site footer says © 2019)",
+    "story": "Coach-led academy in the south of Gran Canaria, working with Sun Club Tennis Playa del Inglés. All coaches follow one in-house methodology; players rotate between coaches. Head coach is referred to as Daniel/Dani in reviews.",
+    "source": "crawl, places, web, social"
+  },
+  "services": [
+    {
+      "name": "Junior Tennis",
+      "description": "Technique and footwork, biomechanical study of each player, start of competition.",
+      "source": "crawl"
+    },
+    {
+      "name": "Tennis Pro",
+      "description": "Spin variations, match strategy, game patterns, psychology and tailored physical preparation.",
+      "source": "crawl"
+    },
+    {
+      "name": "Private tennis lessons",
+      "description": null,
+      "source": "crawl"
+    },
+    {
+      "name": "Group tennis lessons",
+      "description": null,
+      "source": "crawl"
+    },
+    {
+      "name": "Private padel lessons",
+      "description": null,
+      "source": "crawl"
+    },
+    {
+      "name": "Group padel lessons",
+      "description": null,
+      "source": "crawl"
+    },
+    {
+      "name": "Adult holiday groups",
+      "description": "Improve your game, meet other players, make friends.",
+      "source": "crawl"
+    },
+    {
+      "name": "Coaching / tournament support",
+      "description": "Accompaniment at tournaments (text truncated in crawl excerpt).",
+      "source": "crawl"
+    },
+    {
+      "name": "Premium hotel service",
+      "description": "Training at your hotel; extra cost.",
+      "source": "crawl"
+    },
+    {
+      "name": "Court rental",
+      "description": "Two clay courts and three hard courts, heated pool, bar, pro shop (per Facebook).",
+      "source": "social"
+    }
+  ],
+  "prices": [
+    {
+      "label": "1 player",
+      "value": "60,00 €/h",
+      "source": "crawl"
+    },
+    {
+      "label": "2 players",
+      "value": "80,00 €/h",
+      "source": "crawl"
+    },
+    {
+      "label": "3 players",
+      "value": "100,00 €/h",
+      "source": "crawl"
+    },
+    {
+      "label": "4 players",
+      "value": "120,00 €/h",
+      "source": "crawl"
+    }
+  ],
+  "toneOfVoice": {
+    "summary": "Warm, energetic and personal. Reviews stress friendliness, professionalism and community; the owner's own voice is casual and enthusiastic, mixing Spanish and English.",
+    "traits": [
+      "friendly",
+      "professional",
+      "energetic",
+      "community-minded",
+      "personalised"
+    ],
+    "languageNotes": "Site is bilingual ES/EN; EN programmes page still shows Spanish copy. Instagram captions mix ES and EN. Voice is informal (tú).",
+    "source": "crawl, places, social"
+  },
+  "usps": [
+    {
+      "claim": "Single in-house methodology used by all coaches, with players rotating between coaches",
+      "source": "crawl"
+    },
+    {
+      "claim": "Video analysis, eating-habit advice and tailored physical training",
+      "source": "crawl"
+    },
+    {
+      "claim": "Year-round play (365 days) in the Gran Canaria climate",
+      "source": "crawl"
+    },
+    {
+      "claim": "Clay courts; hotel training service for holidaymakers",
+      "source": "crawl"
+    },
+    {
+      "claim": "Tournament pathway: 'more than 9 international tournaments' in Gran Canaria (ITF Juniors, M15, W25, Seniors, GC Yellow Bowl, Tennis Europe U14)",
+      "source": "crawl"
+    },
+    {
+      "claim": "5.0 rating from 174 Google reviews",
+      "source": "places"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Dani y su equipo son increíbles. He aprendido más de tenis en tres días con ellos que en todo un año con otro entrenador.",
+      "author": "Daniel Pérez Ambrosí",
+      "rating": 5,
+      "source": "places",
+      "url": null
+    },
+    {
+      "quote": "Esta academia es el lugar perfecto para aprender o mejorar en tenis. También es un lugar donde conocer a personas y hacer amigos.",
+      "author": "Ángel Díaz Manchón",
+      "rating": 5,
+      "source": "places",
+      "url": null
+    },
+    {
+      "quote": "Fuimos a Canarias diez días de vacaciones y contactamos con Dani para dar unas clases de tenis. La verdad es que ha sido todo un acierto.",
+      "author": "Jon Martinez",
+      "rating": 5,
+      "source": "places",
+      "url": null
+    },
+    {
+      "quote": "Daniel es un profesor muy simpático que sabe evaluar correctamente a jugadores como yo, que estamos en una edad avanzada.",
+      "author": "Rudolf Trafoier",
+      "rating": 5,
+      "source": "places",
+      "url": null
+    },
+    {
+      "quote": "My son has been training here this summer while on holiday. He has enjoyed it so much and feels like part of the club already.",
+      "author": "Cas222",
+      "rating": 5,
+      "source": "web",
+      "url": "https://www.tripadvisor.com/Attraction_Review-g562819-d24069619-Reviews-Darrod_Tennis_Academy-Playa_del_Ingles_Maspalomas_San_Bartolome_de_Tirajana_Gran.html"
+    }
+  ],
+  "contact": {
+    "phone": "+34 656 604 577 (mobile), +34 928 298 586 (landline)",
+    "email": "darrodtennisacademy@gmail.com (site); reservas@darrodtennisacademy.com (Facebook)",
+    "address": "C. las Margaritas, S/N, 35100 Maspalomas, Las Palmas, España",
+    "hours": "Mon–Sun 8:00–21:00 (Google)",
+    "mapsUrl": "https://maps.google.com/?cid=5650912817613743981",
+    "website": "https://www.darrodtennisacademy.com",
+    "social": {
+      "instagram": "https://www.instagram.com/darrodtennisacademy/",
+      "facebook": "https://www.facebook.com/darrodtennis/",
+      "youtube": "https://www.youtube.com/channel/UCZs6e-4XIfETrcPWMejmadw/featured"
+    }
+  },
+  "reputation": {
+    "rating": 5.0,
+    "reviewCount": 174,
+    "source": "places"
+  },
+  "visualIdentity": {
+    "colors": [
+      "rgb(51,51,51) text",
+      "rgb(255,255,255) background",
+      "rgb(204,51,102) accent (raspberry pink)"
+    ],
+    "fonts": [
+      "Cera Pro (sans)",
+      "grafolita-script (script accent)"
+    ],
+    "logo": "sources/images/site-logo.png (400x200, silver/white on transparent, 2019; vector needed)",
+    "existingSiteFeel": "Not assessed from text alone; screenshots are in .studio/sources/screenshots/.",
+    "source": "crawl"
+  },
+  "assets": {
+    "imageCount": 35,
+    "origins": {
+      "site": 20,
+      "instagram": 13,
+      "facebook": 2
+    },
+    "quality": {
+      "good": 28,
+      "usable": 7,
+      "poor": 0
+    },
+    "heroCandidates": [
+      "site-19.webp",
+      "site-20.jpg",
+      "site-18.webp",
+      "site-16.jpg",
+      "fb-01.jpg"
+    ],
+    "index": "sources/asset-index.json",
+    "documents": []
+  },
+  "voiceSample": [
+    {
+      "phrase": "Si queres sentir lo que siente un Darrod te esperamos! Buen ambiente, profesionalismo y mucha energía 🎾",
+      "where": "review",
+      "source": "places (alberto ochotta)"
+    },
+    {
+      "phrase": "Sin duda el mejor entrenador de tenis y aún mejor persona de Gran Canaria.",
+      "where": "review",
+      "source": "places (Daniel Pérez Ambrosí)"
+    },
+    {
+      "phrase": "Te atienden amablemente, te enseñan, corrigen y gracias a ello mejoras mucho",
+      "where": "review",
+      "source": "places (Ángel Díaz Manchón)"
+    },
+    {
+      "phrase": "La cria ha salido encantada y lo que es más importante con ganas de volver.",
+      "where": "review",
+      "source": "places (Jon Martinez)"
+    },
+    {
+      "phrase": "Las tres horas fueron geniales, ¡gracias, Daniel!",
+      "where": "review",
+      "source": "places (Rudolf Trafoier)"
+    },
+    {
+      "phrase": "feels like part of the club already",
+      "where": "review",
+      "source": "web (TripAdvisor)"
+    },
+    {
+      "phrase": "Bienvenidos a una experiencia de tenis única.",
+      "where": "site",
+      "source": "crawl"
+    },
+    {
+      "phrase": "Jugar al tenis durante los 365 días del año con el mejor clima del mundo, con grandes profesionales y experimentados es nuestra insignia.",
+      "where": "site",
+      "source": "crawl"
+    },
+    {
+      "phrase": "Mejorando el juego de cada jugador. … Conociendo a más jugadores, haciendo amistades. Una experiencia enriquecedora y agradable.",
+      "where": "site",
+      "source": "crawl"
+    },
+    {
+      "phrase": "Hay lugares que simplemente son especiales. 🎾☀️",
+      "where": "post",
+      "source": "social (Instagram, 2026-06-17)"
+    },
+    {
+      "phrase": "Un gran paso para lo que te espera",
+      "where": "post",
+      "source": "social (Instagram, 2026-07-28)"
+    },
+    {
+      "phrase": "2nd week done Thank you guys for amazing work",
+      "where": "post",
+      "source": "social (Instagram, 2026-07-10)"
+    }
+  ],
+  "press": [],
+  "directories": [
+    {
+      "title": "TripAdvisor",
+      "url": "https://www.tripadvisor.com/Attraction_Review-g562819-d24069619-Reviews-Darrod_Tennis_Academy-Playa_del_Ingles_Maspalomas_San_Bartolome_de_Tirajana_Gran.html",
+      "type": "directory"
+    },
+    {
+      "title": "Wanderlog",
+      "url": "https://wanderlog.com/place/details/7535523/darrod-tennis-academy",
+      "type": "directory"
+    },
+    {
+      "title": "Trip.com",
+      "url": "https://www.trip.com/travel-guide/attraction/playa-del-ingles/darrod-tennis-academy-136082468",
+      "type": "directory"
+    },
+    {
+      "title": "Sunbonoo",
+      "url": "https://www.sunbonoo.com/en/gran-canaria-tennis-maspalomas-4634",
+      "type": "mention"
+    }
+  ],
+  "social": {
+    "instagram": {
+      "followers": 1029,
+      "posts": 787,
+      "source": "social"
+    },
+    "facebook": {
+      "followers": 494,
+      "rating": "100% recommend (5 reviews)",
+      "source": "social"
+    }
+  },
+  "gaps": [
+    {
+      "field": "image-rights",
+      "reason": "Images come from the client's own site/social and show identifiable children. Reuse rights and consent unconfirmed; ask for originals.",
+      "severity": "useful"
+    },
+    {
+      "field": "logo",
+      "reason": "Only a small 400x200 web PNG (2019); ask the client for a vector.",
+      "severity": "useful"
+    },
+    {
+      "field": "reviews",
+      "reason": "Official Places API returns at most 5 reviews (of 174).",
+      "severity": "minor"
+    },
+    {
+      "field": "press",
+      "reason": "No press, awards or media coverage found on the web.",
+      "severity": "minor"
+    },
+    {
+      "field": "team",
+      "reason": "Home/programmes pages list Virginia Peña, Yibing Wu, Yecong He, Ivan Marrero, Hugo Largo; the methodology page lists Daniel Rodriguez, Daniel Gonzalez, Laurent Dairiam, Alberto Ottchota, Javier Anibal. Roles, bios and which list is current are unknown.",
+      "severity": "useful"
+    },
+    {
+      "field": "coaching-service",
+      "reason": "'Acompañamiento coaching' description was truncated in the digest.",
+      "severity": "minor"
+    },
+    {
+      "field": "pricing-scope",
+      "reason": "Prices are per hour; membership 'cuotas' amounts are not on the crawled text.",
+      "severity": "useful"
+    },
+    {
+      "field": "tone-owner",
+      "reason": "Owner's own long-form voice is thin: only short Instagram captions and site copy.",
+      "severity": "minor"
+    }
+  ],
+  "lowConfidence": [
+    {
+      "field": "contact.email",
+      "reason": "Site lists darrodtennisacademy@gmail.com; Facebook lists reservas@darrodtennisacademy.com. Which is primary?"
+    },
+    {
+      "field": "contact.phone",
+      "reason": "Places shows +34 656 60 45 77, which matches the site's +34 656 604 577 (same number, different formatting)."
+    },
+    {
+      "field": "reputation.reviewCount",
+      "reason": "Places says 174; Wanderlog says 173 (likely stale)."
+    },
+    {
+      "field": "location",
+      "reason": "Site says Playa del Inglés (Sun Club Tennis) and Maspalomas; Places address is C. las Margaritas, Maspalomas. Whether the two are the same venue is unconfirmed."
+    },
+    {
+      "field": "facilities",
+      "reason": "Site says two clay courts; Facebook says two clay and three hard courts, heated pool, bar, pro shop."
+    },
+    {
+      "field": "founded",
+      "reason": "Registry date 2020-07-08 vs site footer '© 2019'."
+    },
+    {
+      "field": "awards",
+      "reason": "Instagram (2026-06-17) mentions a 2025 sports recognition, but it appears to be for a player (@gabrielaa_paun), not the academy."
+    }
+  ],
+  "sourcesRun": {
+    "crawl": "ok",
+    "places": "ok",
+    "social": "ok",
+    "web": "ok",
+    "assets": "ok (35 images fetched from site + social, then catalogued)"
+  },
+  "costEur": 0.06
+}

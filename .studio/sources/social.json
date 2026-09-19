@@ -1,0 +1,736 @@
+{
+  "instagram": {
+    "fetchedAt": "2026-09-19T09:39:40.115Z",
+    "actor": "apify/instagram-scraper",
+    "url": "https://www.instagram.com/darrodtennisacademy/",
+    "runId": "ERc2esWYn98bw77gT",
+    "itemCount": 1,
+    "gap": null,
+    "cost": {
+      "usd": 0.0027,
+      "eur": 0.0024,
+      "basis": "1 charged event(s) x $0.0027",
+      "fx": {
+        "rate": 0.871262,
+        "source": "live",
+        "asOf": "Sat, 19 Sep 2026 00:02:31 +0000"
+      }
+    },
+    "items": [
+      {
+        "inputUrl": "https://www.instagram.com/darrodtennisacademy/",
+        "id": "9408316001",
+        "username": "darrodtennisacademy",
+        "url": "https://www.instagram.com/darrodtennisacademy",
+        "fullName": "darrodtennisacademy",
+        "biography": "¡Bienvenido/a a Darrod Tennis Academy!\nUna academia de tenis para todas las edades y niveles.",
+        "externalUrls": [
+          {
+            "image_url": "",
+            "is_pinned": false,
+            "link_type": "external",
+            "lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Fwww.darrodtennisacademy.com%2F&e=AUBmYDbWd5_oeJr_vSVicTvDHzqbfv6ZcdsIMjCh2YSe0WIfncTh_hwwxxpXGXtx2eDmLjTFd5fM-yHlCdN-Lx-FoZM2gWkuaBsJy2npbSNGqq2FWerhhrz3Gi6RqnkPBM2Ti705N2pGf1z0dcnjKQ",
+            "media_accent_color_hex": "",
+            "media_type": "none",
+            "title": "",
+            "url": "http://www.darrodtennisacademy.com/",
+            "creation_source": "NONE"
+          }
+        ],
+        "externalUrl": "http://www.darrodtennisacademy.com/",
+        "externalUrlShimmed": "https://l.instagram.com/?u=http%3A%2F%2Fwww.darrodtennisacademy.com%2F&e=AUByHRFdgRyUoR1-R7ukKjGZwLZsradLxcUuMKcr5fvrPua-QdTlY86-KYAhzmWUiCD5T6slYnZMtTh1es1YXtUnSNiRMDWa8BwM5pSYjoEsuJzdHEHb2UVBPHWoXUwDLy71lL_OPYDtqVFAaltYdQ",
+        "followersCount": 1029,
+        "followsCount": 1032,
+        "isBusinessAccount": true,
+        "businessCategoryName": "Tennis Court",
+        "private": false,
+        "verified": false,
+        "profilePicUrl": "https://scontent-mrs2-2.cdninstagram.com/v/t51.2885-19/81363348_166904701254383_6322810554045956096_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NTAuQzIifQ%3D%3D&_nc_ohc=8191RoQjigAQ7kNvwFu04Xa&_nc_oc=Adqo1fabU735ZI90v8CTeobRwOPhibtkydNwfHQ7vT9vU59tdmEEHAra0iJBhkdzAY4&_nc_zt=24&_nc_ht=scontent-mrs2-2.cdninstagram.com&_nc_ss=73a8c&oh=00_AQLU3LSwQCUydjQyjho7ioETsHEmsIrAhXNDVCnt94Klbw&oe=6AB41D96",
+        "profilePicUrlHD": "https://scontent-mrs2-2.cdninstagram.com/v/t51.2885-19/81363348_166904701254383_6322810554045956096_n.jpg?_nc_cat=107&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NTAuQzIifQ%3D%3D&_nc_ohc=8191RoQjigAQ7kNvwFu04Xa&_nc_oc=Adqo1fabU735ZI90v8CTeobRwOPhibtkydNwfHQ7vT9vU59tdmEEHAra0iJBhkdzAY4&_nc_zt=24&_nc_ht=scontent-mrs2-2.cdninstagram.com&_nc_ss=73a8c&oh=00_AQK7QDOEZLZzYF5ON3xpwMTFDhAGfQog42tgbqreHI7DCQ&oe=6AB41D96",
+        "latestIgtvVideos": [],
+        "postsCount": 787,
+        "latestPosts": [
+          {
+            "id": "3963593515160707251",
+            "type": "Video",
+            "shortCode": "DcBg01RMiCz",
+            "caption": "7th week done💪🏽💪🏽💪🏽",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DcBg01RMiCz/",
+            "commentsCount": 1,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.71878-15/774593658_1057528747258210_753335992744988670_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=f3SdackLhDYQ7kNvwGe0BQE&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQJ31__c0ydEbtkSTowncGrxFStF3nWpYwxipF4mxUh5rQ&oe=6AB42C47&_nc_sid=bc0c2c",
+            "images": [],
+            "videoUrl": "https://instagram.ftls1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQMNMFsZZi9-AcUFo8XyxY8BM_upkxoyJAxIgGbAui1UtAvW1odawNOSCUEiqXlPIqeIcpL7s3Z5I7r4k_FzlqA0niJAWkZQAaK1Trw.mp4?_nc_cat=104&_nc_oc=Adpye3jl9JJl0ipyIucexRFvm0kM0_f2CUtSoyp3KKwmwphjUrQXNH3LPz2MLRAbNbpFeyx9sq7uzJQUxI7tc8qS&_nc_sid=5e9851&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_ohc=SZAfWD7gH-QQ7kNvwHCv1C8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6Mjg5MTA5Mjk0Nzg0OTcyNTYsImFzc2V0X2FnZV9kYXlzIjozNSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjc1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=458374d2b291d64b&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FRjRFOUM0Mzg0QjlGREEwQ0I5MkQ1QTVGNEM0QkU4Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzNBNEM2RTdBQTg3REMwREZEMUNFQzlBREM0Qzc4ODgyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQz4mbypXbZhUCKAJDMywXQFLYAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&_nc_ss=7a22e&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQJRUG0NgpD8O38rNE-pagaDQd2M6w447fkzNHUsQ8vCuA&oe=6AB03191",
+            "likesCount": 33,
+            "videoViewCount": 449,
+            "timestamp": "2026-08-14T14:21:27.000Z",
+            "childPosts": [],
+            "ownerUsername": "darrodtennisacademy",
+            "ownerId": "9408316001",
+            "productType": "clips",
+            "paidPartnership": false,
+            "isCommentsDisabled": false
+          },
+          {
+            "id": "3951491679008186819",
+            "type": "Video",
+            "shortCode": "DbWhL8EMeHD",
+            "caption": "Un gran paso para lo que te espera\nGracias a todas las personas y organizaciones por dar la oportunidad a @gabrielaa_paun por esta hermosa experiencia y haberla aprovechado \n@itftennisgrancanaria \n@condejacksontennis \n@oti39 \n@cabildodegrancanaria \n@maspalomascostacanaria \n@sbt_deportes \n@federacioncanariatenis \nA seguir trabajando duroooooo",
+            "hashtags": [],
+            "mentions": [
+              "gabrielaa_paun",
+              "itftennisgrancanaria",
+              "condejacksontennis",
+              "oti39",
+              "cabildodegrancanaria",
+              "maspalomascostacanaria",
+              "sbt_deportes",
+              "federacioncanariatenis"
+            ],
+            "url": "https://www.instagram.com/p/DbWhL8EMeHD/",
+            "commentsCount": 0,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.71878-15/756790148_1353225953679689_1946635242213699042_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=TDBWla0YxBkQ7kNvwF7cSFT&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQKH_tLC1AmGUXzeGfWM7jQYrzy7kHufRi2L13QdKkSkLw&oe=6AB42EC3&_nc_sid=bc0c2c",
+            "images": [],
+            "videoUrl": "https://instagram.ftls1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQP85NZj0qfvf15siElKpOumJOOlW8HbWThVkgq63AAQXzInBEDkf9jvNbaQx8G0Go_J4nAYc9cgwMOg_2-XXTn_TeyQqz1TTA-Rui4.mp4?_nc_cat=104&_nc_oc=AdrJOvDoHEjeOnHif8Dh8zfp_8fTY_uGbw5k7FH_LcYqzkPuhr4lYxlsCNJyJVfNvxogHUMFjAoBudVuRjHKWepc&_nc_sid=5e9851&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_ohc=GUAo9eHZZdMQ7kNvwGtx1Q7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6Mzk1ODY4MjQwMTA5NDk2NiwiYXNzZXRfYWdlX2RheXMiOjUyLCJ2aV91c2VjYXNlX2lkIjoxMDgyNywiZHVyYXRpb25fcyI6NjAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=4708f6646f1b26c8&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81NzRGNzg0Q0M0RTQ3RTcxODU2N0Y4MDNDRjgzQzNCOF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzZGNDQ4MDExNTUxQ0I1RjgwNkNDMUNDMkUxQUI1RUJEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbs9N2k0pmIDhUCKAJDMywXQE4AAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZZapAQA&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&_nc_ss=7a22e&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQJfzif-22bkGzJy0uROkQjFVOrM1GvNFGHtvddlu6EK2Q&oe=6AB045F1",
+            "likesCount": 69,
+            "videoViewCount": 600,
+            "timestamp": "2026-07-28T21:44:32.000Z",
+            "childPosts": [],
+            "ownerUsername": "darrodtennisacademy",
+            "ownerId": "9408316001",
+            "productType": "clips",
+            "paidPartnership": false,
+            "taggedUsers": [
+              {
+                "full_name": "Cabildo de Gran Canaria",
+                "id": "3547158725",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.2885-19/456859520_1290477118786829_5277196166989757767_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MTAuYzIifQ&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=R2snOXGj6LkQ7kNvwEZHI-k&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQL8iySVa4_Dc8o1HfcE-L4hD4xrPHcCE-h8G75Rs7hm3Q&oe=6AB43C76&_nc_sid=bc0c2c",
+                "username": "cabildodegrancanaria"
+              },
+              {
+                "full_name": "Maspalomas",
+                "id": "8579025401",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/588751994_18302798842281402_6849349270747387161_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45ODkuYzIifQ&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=EOJkNLGzKOwQ7kNvwGtVefX&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQL_uKGuJ-2RNGwb5i-ecBLQYDL4dRUDrMCmQBuyo-imhQ&oe=6AB43DF3&_nc_sid=bc0c2c",
+                "username": "maspalomascostacanaria"
+              },
+              {
+                "full_name": "Gran Canaria Deportes | Consejería de Deportes Cabildo GC",
+                "id": "9271537111",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/731462198_18295444654305112_887430323867102000_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=9OrNILbuvYkQ7kNvwHFJKJZ&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQJ0vMt4qXf3leo2n7Rh7wASDlq2GwNdQjX-2C65iOtNmQ&oe=6AB4342E&_nc_sid=bc0c2c",
+                "username": "grancanariadep"
+              },
+              {
+                "full_name": "Gabriela Paun",
+                "id": "52138837493",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/756525165_18061529207741494_1125732654709543618_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=dUWePpIMXRcQ7kNvwEfVLUH&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQII_ql_34BVcXGIPxk-AHpyN1P9wzQhk9YkAKvd0S_N3A&oe=6AB429CD&_nc_sid=bc0c2c",
+                "username": "gabrielaa_paun"
+              },
+              {
+                "full_name": "Concejalía de Deportes -  Ayto de San Bartolomé de Tirajana",
+                "id": "63785712579",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/541923756_17920903299120580_2250464655554410028_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=6lLe0gBB2soQ7kNvwFOtMfw&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQIJmteKv7a1dqim8pfXmR4KjeflYsGE9nCVZBnL4ZDNng&oe=6AB42074&_nc_sid=bc0c2c",
+                "username": "sbt_deportes"
+              },
+              {
+                "full_name": "ITF World Tenis Tour • W100 Disa Gran Canaria",
+                "id": "58506988508",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/516749441_17962002977948509_7988630542274875358_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=JfhDnBlEDE0Q7kNvwEZrvEb&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQLBgtLk-JPfapC-JxS4maUdOT7GtlSR7Yz_Ji6EHT1E_w&oe=6AB4181E&_nc_sid=bc0c2c",
+                "username": "itftennisgrancanaria"
+              }
+            ],
+            "isCommentsDisabled": false
+          },
+          {
+            "id": "3938356790620666977",
+            "type": "Video",
+            "shortCode": "Dan2qJ_sTxh",
+            "caption": "2nd week done\nThank you guys for amazing work",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dan2qJ_sTxh/",
+            "commentsCount": 0,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.71878-15/742363884_27794197936865220_8147841038106203256_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=zDwFYoClETQQ7kNvwEz5Xf7&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQLO3b7OxphriSaQyQpsmuPw7Fd5cJIACJm4L7mAt-IS1A&oe=6AB42885&_nc_sid=bc0c2c",
+            "images": [],
+            "videoUrl": "https://instagram.ftls1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQOWBUyVgrpI6s8fsXI3RMxHnmn8k961gxc3QYoDCVJczrTOxpahptwppsngFqJAeuYkgaXah1FfMlr5Xl4t9nUT6aVtBd6Q11d7L4M.mp4?_nc_cat=100&_nc_oc=AdoNJ-40KahIWIVr-ejr_I7qRrpSkKu00dHaWr4jIN83gH5cXTSvBIjhSJhaKDTMBt6HuoFAQMc3nWlB1tkRvrMX&_nc_sid=5e9851&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_ohc=4IjR0634ETwQ7kNvwFwetmo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc4Mjc1OTgyOTU0ODEyMiwiYXNzZXRfYWdlX2RheXMiOjcwLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=9ac5ddaac2240636&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85RDRCNzAxMzUxNTU1QTQ4MjlGMThBMkRENTIwNkJBNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQ2NDBFRENGRkZENERFQkI5NEU0RTVFOEIyMTE5QkE3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0seHlo9qqBhUCKAJDMywXQDIzMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&_nc_ss=7a22e&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQJ53KZEb-YuuMCPTJGBcXynv2MLkocHF5xVTUYbswb1YQ&oe=6AB01C45",
+            "likesCount": 16,
+            "videoViewCount": 69,
+            "timestamp": "2026-07-10T18:42:38.000Z",
+            "childPosts": [],
+            "ownerUsername": "darrodtennisacademy",
+            "ownerId": "9408316001",
+            "productType": "clips",
+            "paidPartnership": false,
+            "taggedUsers": [
+              {
+                "full_name": "Maspalomas",
+                "id": "8579025401",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/588751994_18302798842281402_6849349270747387161_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45ODkuYzIifQ&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=EOJkNLGzKOwQ7kNvwGtVefX&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQL_uKGuJ-2RNGwb5i-ecBLQYDL4dRUDrMCmQBuyo-imhQ&oe=6AB43DF3&_nc_sid=bc0c2c",
+                "username": "maspalomascostacanaria"
+              },
+              {
+                "full_name": "Juan Rafael Femenía Cholbi",
+                "id": "241484208",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/730120517_18606940450012209_8502660075868498272_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=ggNbAtaDMckQ7kNvwFwymB3&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQKaMB2uycAq9WG-9dqDYGGjzUnMvqDQtHf60sfeLhYJfg&oe=6AB4435F&_nc_sid=bc0c2c",
+                "username": "juanfcholbi_tennis.coach"
+              },
+              {
+                "full_name": "Concejalía de Deportes -  Ayto de San Bartolomé de Tirajana",
+                "id": "63785712579",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/541923756_17920903299120580_2250464655554410028_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=6lLe0gBB2soQ7kNvwFOtMfw&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQIJmteKv7a1dqim8pfXmR4KjeflYsGE9nCVZBnL4ZDNng&oe=6AB42074&_nc_sid=bc0c2c",
+                "username": "sbt_deportes"
+              },
+              {
+                "full_name": "Daniel Gonzalez Dominguez",
+                "id": "5982785538",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.2885-19/477765612_1202381774564319_4767057389691347188_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=eN5y27Ali1YQ7kNvwEbZJmj&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQIxqLaOHCKibukm3a2-NW3STz0WVnRg0qDug2WVP2c8qg&oe=6AB42C3B&_nc_sid=bc0c2c",
+                "username": "dani_gonza2108"
+              },
+              {
+                "full_name": "«johan»",
+                "id": "22946775383",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.2885-19/491441703_698395676036823_1364079743499844822_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=uM3W7VpgU4gQ7kNvwEDqFjJ&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQJp9qhq-eArwBCFk_6I21AL6IbVRplk5SWKBs1tIERbLQ&oe=6AB41CE3&_nc_sid=bc0c2c",
+                "username": "joohaannn_"
+              },
+              {
+                "full_name": "",
+                "id": "72206200276",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.2885-19/476435604_571195429244814_1500856459743635297_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=jl-Oz8fXgU4Q7kNvwFdSpYS&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQIoTVG-rzDbzT0xeue6s97GFF_BadO9KcJDqT0TfnCpcA&oe=6AB418F6&_nc_sid=bc0c2c",
+                "username": "beto_tenniscoach"
+              },
+              {
+                "full_name": "Gonzalo RODRÍGUEZ RAMÍREZ",
+                "id": "4417405404",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.2885-19/16229353_1758411934485817_7534817524311916544_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yMDAuYzIifQ&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=Ya7XRuuLJagQ7kNvwGuLfGG&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQJkwedEkEsLBcPsDSVJYJmexHbCOq4GT0oei-RJVbH1VA&oe=6AB41141&_nc_sid=bc0c2c",
+                "username": "ramirezgonzalorodriguez"
+              }
+            ],
+            "isCommentsDisabled": false
+          },
+          {
+            "id": "3921377086063835794",
+            "type": "Video",
+            "shortCode": "DZrh671MPqS",
+            "caption": "Hay lugares que simplemente son especiales. 🎾☀️\n\nHoy queremos expresar nuestro más sincero agradecimiento al Ilustre Ayuntamiento de San Bartolomé de Tirajana por la confianza depositada en nosotros para desarrollar nuestro proyecto deportivo en un entorno tan privilegiado como el Parque Sur de Maspalomas.\n\nTener la oportunidad de trabajar cada día en unas instalaciones como estas es un auténtico privilegio. Un espacio que permite a niños, jóvenes y adultos disfrutar del tenis, crecer como deportistas y compartir valores que van mucho más allá de la competición.\n\nDesde Darrod Tennis Academy asumimos esta responsabilidad con ilusión, compromiso y humildad. Nuestro objetivo es devolver esa confianza con trabajo, profesionalidad y dedicación, ofreciendo cada día la mejor experiencia posible a nuestros alumnos y familias.\n\nGracias por creer en el deporte como herramienta de formación, educación y crecimiento para nuestro municipio.\n\nSeguiremos dando lo mejor de nosotros, dentro y fuera de la pista.\n\n#darrodtennisacademy \n#ilustreayuntamientodesanbartolomedetirajana \n#sbt_deportes \n#maspalomascostacanaria",
+            "hashtags": [
+              "darrodtennisacademy",
+              "ilustreayuntamientodesanbartolomedetirajana",
+              "sbt_deportes",
+              "maspalomascostacanaria"
+            ],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DZrh671MPqS/",
+            "commentsCount": 10,
+            "dimensionsHeight": 360,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.71878-15/719523695_1540312447631786_3684255281318880204_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=icgRdWbmVz0Q7kNvwFoLRWw&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQJfa_IrmNYTW1i5kuc0v9rK4Vg4VHPs7YCIiMGLR6w7rg&oe=6AB438DF&_nc_sid=bc0c2c",
+            "images": [],
+            "videoUrl": "https://instagram.ftls1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQMx9UzYmATyl0RhHft-arLmDIkORdicV0KMqYLNJkkw4-FcLXGQbJMe4D8IulY6kF4YtjFgUEXboKpVYHKNYD7Pq6GfYfRYKKmD89M.mp4?_nc_cat=109&_nc_oc=Adqv2AOlBvi7anl3jRctp9EANKpUvZLSIBJpf5R66oQ8QQftY43RkGR3JUL_UgSabEl2QTsXRZfrfGhQsMKWV5iU&_nc_sid=5e9851&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_ohc=0gQHpZMrygwQ7kNvwG2X950&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTAyMC5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ4cHZfYXNzZXRfaWQiOjI3NTcyOTg0NjE5MDU5Mzk0LCJhc3NldF9hZ2VfZGF5cyI6OTQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo2OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=87d4cba366aaece5&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wRTRFQzZCMDNEQjA3NEE1QjkzMzU0QzU3MkM1ODg4QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0JCNDJFOUZBMTE0MjlDNjZFNkY5NTI4QUI3NEJGQkFCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaEo-6Z-N76YRUCKAJDMywXQFEKPXCj1woYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&_nc_ss=7a22e&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQKBxdPQP77jnj9IeNNS8rl_BfP6eY1xMn-R9dgcwqCCNA&oe=6AB03F0A",
+            "likesCount": 75,
+            "videoViewCount": 571,
+            "timestamp": "2026-06-17T08:34:25.000Z",
+            "childPosts": [],
+            "locationName": "Ciudad Deportiva Maspalomas",
+            "locationId": "753917042",
+            "ownerUsername": "darrodtennisacademy",
+            "ownerId": "9408316001",
+            "productType": "clips",
+            "paidPartnership": false,
+            "taggedUsers": [
+              {
+                "full_name": "Maspalomas",
+                "id": "8579025401",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/588751994_18302798842281402_6849349270747387161_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45ODkuYzIifQ&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=EOJkNLGzKOwQ7kNvwGtVefX&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQL_uKGuJ-2RNGwb5i-ecBLQYDL4dRUDrMCmQBuyo-imhQ&oe=6AB43DF3&_nc_sid=bc0c2c",
+                "username": "maspalomascostacanaria"
+              },
+              {
+                "full_name": "Juan Rafael Femenía Cholbi",
+                "id": "241484208",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/730120517_18606940450012209_8502660075868498272_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=ggNbAtaDMckQ7kNvwFwymB3&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQKaMB2uycAq9WG-9dqDYGGjzUnMvqDQtHf60sfeLhYJfg&oe=6AB4435F&_nc_sid=bc0c2c",
+                "username": "juanfcholbi_tennis.coach"
+              },
+              {
+                "full_name": "Concejalía de Deportes -  Ayto de San Bartolomé de Tirajana",
+                "id": "63785712579",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/541923756_17920903299120580_2250464655554410028_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=6lLe0gBB2soQ7kNvwFOtMfw&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQIJmteKv7a1dqim8pfXmR4KjeflYsGE9nCVZBnL4ZDNng&oe=6AB42074&_nc_sid=bc0c2c",
+                "username": "sbt_deportes"
+              },
+              {
+                "full_name": "«johan»",
+                "id": "22946775383",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.2885-19/491441703_698395676036823_1364079743499844822_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=uM3W7VpgU4gQ7kNvwEDqFjJ&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQJp9qhq-eArwBCFk_6I21AL6IbVRplk5SWKBs1tIERbLQ&oe=6AB41CE3&_nc_sid=bc0c2c",
+                "username": "joohaannn_"
+              },
+              {
+                "full_name": "",
+                "id": "72206200276",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.2885-19/476435604_571195429244814_1500856459743635297_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=jl-Oz8fXgU4Q7kNvwFdSpYS&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQIoTVG-rzDbzT0xeue6s97GFF_BadO9KcJDqT0TfnCpcA&oe=6AB418F6&_nc_sid=bc0c2c",
+                "username": "beto_tenniscoach"
+              }
+            ],
+            "isCommentsDisabled": false
+          },
+          {
+            "id": "3921341959128679240",
+            "type": "Video",
+            "shortCode": "DZrZ7xUswNI",
+            "caption": "Un reconocimiento que nos llena de orgullo. 🏆✨\n\nHemos tenido el honor de recibir el reconocimiento deportivo correspondiente al año 2025 de @gabrielaa_paun ,un premio que representa muchas horas de esfuerzo, sacrificio, constancia y pasión por este deporte.\n\nQueremos expresar nuestro más sincero agradecimiento al Ilustre Ayuntamiento de San Bartolomé de Tirajana por este bonito homenaje y por hacer de esta gala una velada tan especial, cuidada y emotiva para todos los deportistas y premiados de nuestro municipio. Iniciativas como esta ponen en valor el trabajo diario de nuestros jóvenes y sirven de inspiración para las nuevas generaciones.\n\nEste reconocimiento pertenece también a todas las personas que forman parte del camino: familias, entrenadores, compañeros y a quienes creen que el esfuerzo y la dedicación siempre tienen recompensa.\n\nSeguiremos trabajando con la misma ilusión y humildad para representar a nuestro municipio de la mejor manera posible.\n\n¡Gracias de corazón! ❤️🎾\n\n#SanBartoloméDeTirajana #Deporte #ReconocimientoDeportivo #Orgullo #Tenis DarrodTennisAcademy Maspalomas Esfuerzo Constancia PasiónPorElTenis",
+            "hashtags": [
+              "SanBartoloméDeTirajana",
+              "Deporte",
+              "ReconocimientoDeportivo",
+              "Orgullo",
+              "Tenis"
+            ],
+            "mentions": [
+              "gabrielaa_paun"
+            ],
+            "url": "https://www.instagram.com/p/DZrZ7xUswNI/",
+            "commentsCount": 3,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.71878-15/726526041_946714101715550_5939990126059976472_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=PEMDi-1DUPAQ7kNvwEl_cra&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQI_VTGHorn-vrzbl5C9C-VNQQ6IIpCZC3c5GQoEK-qvVg&oe=6AB4280D&_nc_sid=bc0c2c",
+            "images": [],
+            "videoUrl": "https://instagram.ftls1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQN1ZeeRXx_1WRB8nRftbjoSdwMQTuKdhb-zmE4qia1IMEeaiirDXzw61p4rBi1zKloABNlbs1_wzCyjimuiigmYtZ3KbrV_RAcLQjM.mp4?_nc_cat=111&_nc_oc=AdqJqp_xj-fGF_4A7e21S4JIMIWdelz7-BpHNZ8HkkQv60hIdamvZxIeK2LIi0xikysD3jLS_SpSulYF8jjeWrn5&_nc_sid=5e9851&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_ohc=SfA7JQWE52AQ7kNvwHuPNQG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTY3OTE1MDAyNjY5MjgwNiwiYXNzZXRfYWdlX2RheXMiOjk0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ede13935c6714dd0&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DQTQ4MjVEQjdFRTQ1REVDNjIyMUY0OEU5RjgzMUU4Ml92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQ0NDZEMzI3NUQ3Q0NEOTE0NEUzMzAyOERCQzdFMTk1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaM4-zNssv7BRUCKAJDMywXQD2ZmZmZmZoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&_nc_ss=7a22e&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQLirEJ1S7y7foiKphhfAXAZO-xc-EoJp7awKRjU-jR0WQ&oe=6AB03074",
+            "likesCount": 64,
+            "videoViewCount": 368,
+            "timestamp": "2026-06-17T08:07:55.000Z",
+            "childPosts": [],
+            "locationName": "Centro De Cultura De Maspalomas",
+            "locationId": "266511206880190",
+            "ownerUsername": "darrodtennisacademy",
+            "ownerId": "9408316001",
+            "productType": "clips",
+            "paidPartnership": false,
+            "taggedUsers": [
+              {
+                "full_name": "Maspalomas",
+                "id": "8579025401",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/588751994_18302798842281402_6849349270747387161_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45ODkuYzIifQ&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=EOJkNLGzKOwQ7kNvwGtVefX&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQL_uKGuJ-2RNGwb5i-ecBLQYDL4dRUDrMCmQBuyo-imhQ&oe=6AB43DF3&_nc_sid=bc0c2c",
+                "username": "maspalomascostacanaria"
+              },
+              {
+                "full_name": "Gabriela Paun",
+                "id": "52138837493",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/756525165_18061529207741494_1125732654709543618_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=dUWePpIMXRcQ7kNvwEfVLUH&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQII_ql_34BVcXGIPxk-AHpyN1P9wzQhk9YkAKvd0S_N3A&oe=6AB429CD&_nc_sid=bc0c2c",
+                "username": "gabrielaa_paun"
+              },
+              {
+                "full_name": "Concejalía de Deportes -  Ayto de San Bartolomé de Tirajana",
+                "id": "63785712579",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/541923756_17920903299120580_2250464655554410028_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=6lLe0gBB2soQ7kNvwFOtMfw&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQIJmteKv7a1dqim8pfXmR4KjeflYsGE9nCVZBnL4ZDNng&oe=6AB42074&_nc_sid=bc0c2c",
+                "username": "sbt_deportes"
+              },
+              {
+                "full_name": "Gabriel Paun",
+                "id": "7412849106",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.2885-19/29401049_212228236027583_5310282420719714304_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=fdUu4peuQoAQ7kNvwFGThuv&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQKfOb7GKSXxaiTGsFl89y3avJ0Qub5mhkF9IzHwJsIUBg&oe=6AB431B0&_nc_sid=bc0c2c",
+                "username": "paun8279"
+              }
+            ],
+            "isCommentsDisabled": false
+          },
+          {
+            "id": "3878590286205297440",
+            "type": "Video",
+            "shortCode": "DXThVDOjCMg",
+            "caption": "Preciosa semana junto a su amiga @luciaa_rguezzz \nGracias al torneo itfbeaulieusurmer por el trato \n#rfet \n#federacioncanariadetenis \n#vivaelteniscanario🔝🎾🇮🇨💪 \n#ilustreayuntamientodesanbartolomedetirajana \n#darrodtennis",
+            "hashtags": [
+              "rfet",
+              "federacioncanariadetenis",
+              "vivaelteniscanario🔝🎾🇮🇨💪",
+              "ilustreayuntamientodesanbartolomedetirajana",
+              "darrodtennis"
+            ],
+            "mentions": [
+              "luciaa_rguezzz"
+            ],
+            "url": "https://www.instagram.com/p/DXThVDOjCMg/",
+            "commentsCount": 0,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.71878-15/670602009_1318025890175974_2024750443635272263_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=YLUgoZWIWi8Q7kNvwGO0jfi&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQLxrWiUE1DXofILGcCqrtKA2d9eOBn0bv8R8xRPjQScSA&oe=6AB4376E&_nc_sid=bc0c2c",
+            "images": [],
+            "videoUrl": "https://instagram.ftls1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQPV4sfJplrevgSDbPWeX2pt36izFD7Gyv9qTKbNNFfxNwxAnhHm3nDlrsahDN58uNQXXherTFZjOL1cz2mxYYEsDnIa-1s6sQglaxM.mp4?_nc_cat=108&_nc_oc=AdrHFrofW6wYu71eAbDwOHU0WzT6SnHSV9faj_DBJDkPz1HknsdVxjSH12CZ1YrLyWGAEgnLO-xUs7rlXRuulUBf&_nc_sid=5e9851&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_ohc=6_UQs6FJmXsQ7kNvwFBPW-2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgyMTk4NTM3ODAzMTYwMDIsImFzc2V0X2FnZV9kYXlzIjoxNTMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=eebb192fee50e484&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9EMDQwQUI4MEE2RjgzMUI1ODFBMzY3ODg5MTdGMkM5NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Q5NEJENzczNEVCMEJDRkQ2MkQ1QUVBN0M1RUUxREE4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbEvfuGibfdQBUCKAJDMywXQCAAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&_nc_ss=7a22e&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQINzWcX3HO-4KiOr1ywxaBXJxuzNRUjJ667D1rPYaAOQA&oe=6AB02DFD",
+            "likesCount": 37,
+            "videoViewCount": 455,
+            "timestamp": "2026-04-19T07:40:47.000Z",
+            "childPosts": [],
+            "locationName": "Beaulieu Sur Mer, French Riviera",
+            "locationId": "238305809",
+            "ownerUsername": "darrodtennisacademy",
+            "ownerId": "9408316001",
+            "productType": "clips",
+            "paidPartnership": false,
+            "taggedUsers": [
+              {
+                "full_name": "Lucía Rodríguez Domínguez",
+                "id": "46887884984",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/787244126_18092605013564985_8057749093096614875_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=S_YVply8YKIQ7kNvwFDhVOz&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQLn0CnkGOhjFVmT_JtIoE1Ij38UnfsPNjj4VlVvJtXLJQ&oe=6AB41767&_nc_sid=bc0c2c",
+                "username": "lucia.rodriguez31"
+              },
+              {
+                "full_name": "Gabriela Paun",
+                "id": "52138837493",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/756525165_18061529207741494_1125732654709543618_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=dUWePpIMXRcQ7kNvwEfVLUH&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQII_ql_34BVcXGIPxk-AHpyN1P9wzQhk9YkAKvd0S_N3A&oe=6AB429CD&_nc_sid=bc0c2c",
+                "username": "gabrielaa_paun"
+              },
+              {
+                "full_name": "darrodtennisacademy",
+                "id": "9408316001",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.2885-19/81363348_166904701254383_6322810554045956096_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTAuYzIifQ&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=7p4W3BtuOkIQ7kNvwEamMy_&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQKeP7nM5j54CXKmntKKsXH-Yym5yXXSbDgBDz6nrbY5Dw&oe=6AB41D96&_nc_sid=bc0c2c",
+                "username": "darrodtennisacademy"
+              },
+              {
+                "full_name": "Daniel Rodriguez",
+                "id": "4238451074",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.2885-19/38002394_1523874444385469_2477497433102221312_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=pbynQZ1NfdMQ7kNvwEVbLVg&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQLNDD3yiiHCZNJouwudpeilM3wyYSWXbvFoe80Is5JbFg&oe=6AB413A2&_nc_sid=bc0c2c",
+                "username": "darrodtennis"
+              }
+            ],
+            "coauthorProducers": [
+              {
+                "id": "4238451074",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.2885-19/38002394_1523874444385469_2477497433102221312_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=pbynQZ1NfdMQ7kNvwEVbLVg&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQLNDD3yiiHCZNJouwudpeilM3wyYSWXbvFoe80Is5JbFg&oe=6AB413A2&_nc_sid=bc0c2c",
+                "username": "darrodtennis"
+              }
+            ],
+            "isCommentsDisabled": false
+          },
+          {
+            "id": "3834081716327980542",
+            "type": "Image",
+            "shortCode": "DU1ZQHVjJ3-",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DU1ZQHVjJ3-/",
+            "commentsCount": 4,
+            "dimensionsHeight": 1080,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-15/635122049_18212811127316002_2282424647662507661_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=RoahyFbSc3IQ7kNvwG26Vma&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQKPbd7diDFtXWl-iPho6fdt0nFHaOQUPJhkubIjrWBhTw&oe=6AB43A61&_nc_sid=bc0c2c",
+            "images": [],
+            "alt": null,
+            "likesCount": 34,
+            "timestamp": "2026-02-16T21:43:00.000Z",
+            "childPosts": [],
+            "ownerUsername": "darrodtennisacademy",
+            "ownerId": "9408316001",
+            "paidPartnership": false,
+            "isCommentsDisabled": false
+          },
+          {
+            "id": "3834081453319958711",
+            "type": "Image",
+            "shortCode": "DU1ZMSZDLC3",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DU1ZMSZDLC3/",
+            "commentsCount": 1,
+            "dimensionsHeight": 1087,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-15/634914086_18212811100316002_4265526087652671459_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=5Ysyv_Lni3wQ7kNvwEns0_p&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQKhZgu7DChkynQWmFacqNlChDoJnrYYyAYm3vDvoNX3kw&oe=6AB4324F&_nc_sid=bc0c2c",
+            "images": [],
+            "alt": null,
+            "likesCount": 16,
+            "timestamp": "2026-02-16T21:42:34.000Z",
+            "childPosts": [],
+            "ownerUsername": "darrodtennisacademy",
+            "ownerId": "9408316001",
+            "paidPartnership": false,
+            "isCommentsDisabled": false
+          },
+          {
+            "id": "3834080582288841824",
+            "type": "Image",
+            "shortCode": "DU1Y_nLjJxg",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DU1Y_nLjJxg/",
+            "commentsCount": 2,
+            "dimensionsHeight": 1080,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-15/635237941_18212811052316002_2261161187240966156_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=Ai3t196ebd8Q7kNvwHKf6eO&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQLKdolo3B_tYXy1I8J-kWxU9_LgoZ4-RfbNAj6_W4u7Ow&oe=6AB41B63&_nc_sid=bc0c2c",
+            "images": [],
+            "alt": null,
+            "likesCount": 29,
+            "timestamp": "2026-02-16T21:41:53.000Z",
+            "childPosts": [],
+            "ownerUsername": "darrodtennisacademy",
+            "ownerId": "9408316001",
+            "paidPartnership": false,
+            "isCommentsDisabled": false
+          },
+          {
+            "id": "3782528653356473092",
+            "type": "Video",
+            "shortCode": "DR-PcUADJsE",
+            "caption": "ABIERTAS LAS INSCRIPCIONES‼️‼️#sbtdondeeldeporteesvidatodoelaño \n#AytoSBT\n#ConcejaliaDeportesSBT\n#SBT\n#maspalomas \n@sbt_deportes",
+            "hashtags": [
+              "sbtdondeeldeporteesvidatodoelaño",
+              "AytoSBT",
+              "ConcejaliaDeportesSBT",
+              "SBT",
+              "maspalomas"
+            ],
+            "mentions": [
+              "sbt_deportes"
+            ],
+            "url": "https://www.instagram.com/p/DR-PcUADJsE/",
+            "commentsCount": 1,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.71878-15/588672836_2049745809202278_78988655550821969_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=rdi5TrrbBFcQ7kNvwEGnim1&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQL_j4Pfv0IHRhgJLuUzZVb47XVVo547gUIx2lolabcu4Q&oe=6AB43C43&_nc_sid=bc0c2c",
+            "images": [],
+            "videoUrl": "https://instagram.ftls1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQOfp9TtVCiTkJdxJOFnFm38XEpw0H9-h-suFmpLz2-8xub5Fikhrt5z6JcT-wrux4c7Cv4-muTa3np3JjqCVXPlFDMs5Kicio4QTa8.mp4?_nc_cat=104&_nc_oc=AdrMiulBmhwIJENeCC7F67I5p3r4nLJNmUHllQDGBZpTUhw6jxUakBIxEyodl6GppPvjt16EgDunBuOOLCD4DpPF&_nc_sid=5e9851&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_ohc=g4JOSwsSMLYQ7kNvwH66_YA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjA0ODAxNzEwMjYyNDMzMCwiYXNzZXRfYWdlX2RheXMiOjI4NSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8c561b0c88832a0a&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ERTQ1MDcwMkRCODhBOTRBNDNFQjQzMDkxMkEyNEVCMF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMTk2OTQ5NDU1MTc5NTU4XzUxNjY3OTcyMzUwMTYzNzIzMjgubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJpTZqr6kqqMHFQIoAkMzLBdAEAAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gdl5p0BAA&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&_nc_ss=7a22e&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQK8300-m4Pikper0rCVrQpW3fxKvGsfaaQJBXhrrT5QXg&oe=6AB03435",
+            "likesCount": 29,
+            "videoViewCount": 423,
+            "timestamp": "2025-12-07T18:52:18.000Z",
+            "childPosts": [],
+            "ownerUsername": "darrodtennisacademy",
+            "ownerId": "9408316001",
+            "productType": "clips",
+            "paidPartnership": false,
+            "isCommentsDisabled": false
+          },
+          {
+            "id": "3766850855526754105",
+            "type": "Video",
+            "shortCode": "DRGiuU9jGc5",
+            "caption": "#😊",
+            "hashtags": [
+              "😊"
+            ],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DRGiuU9jGc5/",
+            "commentsCount": 2,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.71878-15/582343886_816405374702916_6864368900408169951_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=sxX7ZwIM6BUQ7kNvwE5mtHh&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQJAf9Sv3Co-t474RdWsh18bzQW9SIuPfqZCPVIL78WHMw&oe=6AB423B4&_nc_sid=bc0c2c",
+            "images": [],
+            "videoUrl": "https://instagram.ftls1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQPr3bqVdNBi0qqQ25V1Sg1d6zLs8BirmWzHbyu7FtGVOpzS_MAvSsTo9Abkls3LvXjwjTUi_ThGx99HZL_uVMK_Nns4-pJyeeiKrDE.mp4?_nc_cat=108&_nc_oc=AdpbwGnteysteItvb0gKVImI3XpOWOSSiRB7M2PN-wcgIZ2_76_KMhEtPY4fVbzx024PqPNeSCg95YFov718raYU&_nc_sid=5e9851&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_ohc=yMMihTtYWj4Q7kNvwFok7ED&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTU0NzUwMDY2MzIzMDU0NiwiYXNzZXRfYWdlX2RheXMiOjMwNywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=2c3ff57ae5316fbf&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BQjRCOTdGREZDQjdFMDg1MThDM0JGMTg2OTIyRENCNV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYRmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84NDY2NjE1OTQ0MTUyMTNfMjk0MDczNTkxODY4OTQwMzQ5MC5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmpMGStbLcvwUVAigCQzMsF0A9AAAAAAAAGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&_nc_ss=7a22e&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQLOn9R9i23oCAxturZy9dckcc04X581lDSaWXrYVIs76Q&oe=6AB04E35",
+            "likesCount": 31,
+            "videoViewCount": 825,
+            "timestamp": "2025-11-16T03:31:20.000Z",
+            "childPosts": [],
+            "ownerUsername": "darrodtennisacademy",
+            "ownerId": "9408316001",
+            "productType": "clips",
+            "paidPartnership": false,
+            "taggedUsers": [
+              {
+                "full_name": "🥷🦂IMANOL🦂🥷",
+                "id": "477478571",
+                "is_verified": true,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.2885-19/449870764_474621965522031_1187134035275746031_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=f1WTCfXfpjAQ7kNvwFdcWZN&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQKfBKg8gy7aI9o6Pry0Z7FJOww6jXXDOgGRfrFkWPdn2w&oe=6AB42909&_nc_sid=bc0c2c",
+                "username": "lopezzima"
+              }
+            ],
+            "isCommentsDisabled": false
+          },
+          {
+            "id": "3706536574227853403",
+            "type": "Video",
+            "shortCode": "DNwQ2BN2DBb",
+            "caption": "2da semana de pretemporada terminada\nEnorme besties\nGracias por darlo todo\n\n“Second week of preseason done. Huge, besties. Thanks for giving it your all.”\n\n#vivaelteniscanario🔝🎾🇮🇨💪 \n#ilustreayuntamientodesanbartolomedetirajana \n#sanbartolomedetirajana \n#maspalomas \n#keepgoing💪 \n#cabildodegrancanaria \n#itfjuniortennis \n#darrod \n#tennisplayers \n#preseason \n\nBE READY FOR TOMORROW BESTIES 😜🔥🔥🔥",
+            "hashtags": [
+              "vivaelteniscanario🔝🎾🇮🇨💪",
+              "ilustreayuntamientodesanbartolomedetirajana",
+              "sanbartolomedetirajana",
+              "maspalomas",
+              "keepgoing💪",
+              "cabildodegrancanaria",
+              "itfjuniortennis",
+              "darrod",
+              "tennisplayers",
+              "preseason"
+            ],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DNwQ2BN2DBb/",
+            "commentsCount": 1,
+            "dimensionsHeight": 1920,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-15/539328363_18192980281316002_1973506193821670505_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=fDyaSZcGV6MQ7kNvwHWRiso&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQIOc7EAbehlQWtsRqqUQAiWQ8-bto_ccgKzs1-_4cIDOA&oe=6AB43E3D&_nc_sid=bc0c2c",
+            "images": [],
+            "videoUrl": "https://instagram.ftls1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQNW0EJBtWG2ZRrjZPv6mNHM7hbnW_MF3fjjgiM91ChFKssdx3xlO6OHDswVwDwFjfgThxY4yYtAoqx4DerisPpbVZ0Z6AWFfUP7sjE.mp4?_nc_cat=103&_nc_oc=Adrz19IdPEUrOLQnnE90SBEnx0a42tZdXDD8IJlRo65CMWEYyKGP3HJoWUWnBWN3nK8Nkf_GfC-F7tOoytXNedY7&_nc_sid=5e9851&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_ohc=0HHHdusvllYQ7kNvwGpucxP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQxMDc1MDU5MzM3MDQ1MSwiYXNzZXRfYWdlX2RheXMiOjM5MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjg3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a3ef27a95bd6b8f2&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zODQxOTQ4OTI0ODY1MTc0RkU5MkRGNzFCODEwMzY5OV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMDQxMjc0ODQ4MDc4MDI1XzY1Nzg5NTIwMzExMzI1MTkxOTQubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJqal4P--xIEFFQIoAkMzLBdAVfi0OVgQYhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gdl5p0BAA&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&_nc_ss=7a22e&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQJYbU7OpuOxpynkjjmDbuXqedAvgeMGC94e5bHhNI3rRA&oe=6AB03720",
+            "likesCount": 46,
+            "videoViewCount": 477,
+            "timestamp": "2025-08-24T22:23:04.000Z",
+            "childPosts": [],
+            "locationName": "Maspalomas, Gran Canaria",
+            "locationId": "1610891262540610",
+            "ownerUsername": "darrodtennisacademy",
+            "ownerId": "9408316001",
+            "productType": "clips",
+            "paidPartnership": false,
+            "taggedUsers": [
+              {
+                "full_name": "Marta Gayoso 🇮🇨",
+                "id": "28494036224",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/526670264_18074084623948225_4108199541679684843_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=PEFsNP672eMQ7kNvwEufvQF&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQJXMuDGGqvD-2oRBZHZc4Yz5rk1nceBwZell-eaJnc1WA&oe=6AB44381&_nc_sid=bc0c2c",
+                "username": "maarta.gayosoo_"
+              },
+              {
+                "full_name": "Tomás Quesada Pérez",
+                "id": "5929638985",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/671110749_18407022589198986_6999337867943288256_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=xsQ31WTOQWoQ7kNvwFQgm1z&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQKHpEnoItTPs8YTu2jSTBS19U2N3yo-DwnzYgGuVkphGQ&oe=6AB43FF3&_nc_sid=bc0c2c",
+                "username": "tomasquesadaaa"
+              },
+              {
+                "full_name": "Alberto Matias Ochotta",
+                "id": "1652896689",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/562668816_18552054538032690_4233993244786122264_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=nGFiTLGIVfIQ7kNvwHwU2dB&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQJaMv7zO2qP8-74tDKV1zKPXHTlILt3bdU6Y6WMVMqFEw&oe=6AB42808&_nc_sid=bc0c2c",
+                "username": "betoochotta"
+              },
+              {
+                "full_name": "Kriiisss",
+                "id": "56348887056",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/514856816_17971047662879057_2931030358119069259_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=-qK6WHuLAa4Q7kNvwGtsdzv&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQJ2_1_DzeYDHP9bR543p63whay2WN0SwaQi5mf4x7qnCQ&oe=6AB436C3&_nc_sid=bc0c2c",
+                "username": "krisvranes"
+              },
+              {
+                "full_name": "«johan»",
+                "id": "22946775383",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.2885-19/491441703_698395676036823_1364079743499844822_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=uM3W7VpgU4gQ7kNvwEDqFjJ&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQJp9qhq-eArwBCFk_6I21AL6IbVRplk5SWKBs1tIERbLQ&oe=6AB41CE3&_nc_sid=bc0c2c",
+                "username": "joohaannn_"
+              },
+              {
+                "full_name": "miiliicaajeeliickraasniic_🇮🇨",
+                "id": "75963132849",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/785943816_17907338076532850_8974576463595534256_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=JHkMj0TAl7sQ7kNvwGSTSy3&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQJhNgQpVDyyPP0svg5pTeRIz5lCN2YgbhjR_x-CP3i-gw&oe=6AB430B0&_nc_sid=bc0c2c",
+                "username": "milicajelickrasnic_"
+              },
+              {
+                "full_name": "𝑵𝒊𝒄𝒐𝒍𝒆",
+                "id": "71484416342",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-19/623221837_17898392145376343_6286042174267866174_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjAuYzIifQ&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gE8QJfnvqVafD6NZyaud09_ynb5Ww2pDveTf-d3mDzyT61GfcdlHv8rlQ1imqtYJ8Xc-4sQ_rZ_vKUNIlWMew3_&_nc_ohc=Wabuyp-BgPkQ7kNvwEYIsr-&_nc_gid=nCi5XhEtXfkpAxF-O8yyWg&edm=APU89FABAAAA&ccb=7-5&oh=00_AQJTeA4uhDVCekCOQYOlqa2M_ZQCtesegTz8URuIC9P9iw&oe=6AB42C62&_nc_sid=bc0c2c",
+                "username": "nicoleveleva"
+              }
+            ],
+            "isCommentsDisabled": false
+          }
+        ],
+        "fbid": "17841409480036039"
+      }
+    ]
+  },
+  "facebook": {
+    "fetchedAt": "2026-09-19T09:40:00.641Z",
+    "actor": "apify/facebook-pages-scraper",
+    "url": "https://www.facebook.com/darrodtennis/",
+    "runId": "R7kgJsTSjPjc9AcpW",
+    "itemCount": 1,
+    "gap": null,
+    "cost": {
+      "usd": 0.012,
+      "eur": 0.0105,
+      "basis": "1 charged event(s) x $0.012",
+      "fx": {
+        "rate": 0.871262,
+        "source": "live",
+        "asOf": "Sat, 19 Sep 2026 00:02:31 +0000"
+      }
+    },
+    "items": [
+      {
+        "facebookUrl": "https://www.facebook.com/darrodtennis/",
+        "categories": [
+          "Page",
+          "Tennis Court"
+        ],
+        "info": [
+          "Darrod Tennis Academy, San Bartolomé de Tirajana. 494 followers",
+          "2 talking about this",
+          "105 were here. Tu academia de tenis en el sur de Gran Canaria...."
+        ],
+        "likes": 0,
+        "messenger": null,
+        "title": "Darrod Tennis Academy | San Bartolomé de Tirajana",
+        "address": "C. las Margaritas, S/N, , San Bartolomé de Tirajana, Spain, 35100",
+        "pageId": "100063605371164",
+        "pageName": "darrodtennis",
+        "pageUrl": "https://www.facebook.com/darrodtennis/",
+        "intro": "Tu academia de tenis en el sur de Gran Canaria.\nTodos los niveles, todas las edades. Clases individuales y de grupos. \n\nAlquiler de pistas, dos pistas de tierra batida y tres pistas duras.\n\nPiscina climatizada.\n\nServicio de bar.\n\nTennis pro shop.",
+        "websites": [
+          "https://maps.google.com/maps?q=27.77028225%2C-15.55058956&hl=en",
+          "http://www.darrodtennisacademy.com/"
+        ],
+        "phone": "+34 656 60 45 77",
+        "email": "reservas@darrodtennisacademy.com",
+        "website": "http://www.darrodtennisacademy.com/",
+        "rating": "100% recommend (5 reviews)",
+        "followers": 494,
+        "followings": 57,
+        "profilePictureUrl": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-1/298945480_495268429269999_6385649689864468150_n.png?stp=dst-png&cstp=mx180x180&ctp=s180x180&_nc_cat=101&ccb=1-7&_nc_sid=f907e8&_nc_ohc=8rJtAw4jo0MQ7kNvwFhWCRO&_nc_oc=AdrY21SeNoHj8Ko5-MwAzdR8mrE3y_ty855SrruZZrG_XUOoB6Z004yB_5vh47FOefI&_nc_zt=24&_nc_ht=scontent-dfw6-1.xx&_nc_gid=y8uKQ5KGUUDwEYQmVwXyLg&_nc_ss=7d289&oh=00_AQKHRSPxDbclBjG5fGC-j4YX2Pmh2vLe6q-zkfHCH97Wag&oe=6AB415BE",
+        "coverPhotoUrl": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/481972240_1201937145269787_8945242849890766947_n.jpg?stp=dst-jpg_tt6&cstp=mx1640x924&ctp=s1640x924&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=1Lpy1XiP05kQ7kNvwEVWLsx&_nc_oc=AdqIXu3jlf9XDvBBgzlWmfua5BKDaWwVL_jYnRYM1znDcV3ZyqgytVFDfQYVYdk-wZU&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=nsf1rthUuqHhp2S08YBeQQ&_nc_ss=7d289&oh=00_AQIw14tjYgRH8vBtrHN6XMlHY74Fpon4Q_J2ykE9WVlYKQ&oe=6AB43F15",
+        "profilePhoto": "https://www.facebook.com/photo/?fbid=495268439269998&set=a.495268399270002",
+        "ratingOverall": 100,
+        "ratingCount": 5,
+        "category": "Tennis Court",
+        "addressUrl": "https://www.bing.com/maps/default.aspx?v=2&pc=FACEBK&mid=8100&where1=C.+las+Margaritas%2C+S%2FN%2C+%2C+San+Bartolom%C3%A9+de+Tirajana%2C+Spain%2C+35100&FORM=FBKPL1&mkt=en-US",
+        "ratings": "100% recommend (5 reviews)",
+        "business_hours": "Open now",
+        "creation_date": "November 27, 2018",
+        "ad_status": "This Page isn't currently running ads.",
+        "additionalProperties": {
+          "messenger": null,
+          "address": "C. las Margaritas, S/N, , San Bartolomé de Tirajana, Spain, 35100",
+          "profilePictureUrl": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-1/298945480_495268429269999_6385649689864468150_n.png?stp=dst-png&cstp=mx180x180&ctp=s180x180&_nc_cat=101&ccb=1-7&_nc_sid=f907e8&_nc_ohc=8rJtAw4jo0MQ7kNvwFhWCRO&_nc_oc=AdrY21SeNoHj8Ko5-MwAzdR8mrE3y_ty855SrruZZrG_XUOoB6Z004yB_5vh47FOefI&_nc_zt=24&_nc_ht=scontent-dfw6-1.xx&_nc_gid=y8uKQ5KGUUDwEYQmVwXyLg&_nc_ss=7d289&oh=00_AQKHRSPxDbclBjG5fGC-j4YX2Pmh2vLe6q-zkfHCH97Wag&oe=6AB415BE",
+          "coverPhotoUrl": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/481972240_1201937145269787_8945242849890766947_n.jpg?stp=dst-jpg_tt6&cstp=mx1640x924&ctp=s1640x924&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=1Lpy1XiP05kQ7kNvwEVWLsx&_nc_oc=AdqIXu3jlf9XDvBBgzlWmfua5BKDaWwVL_jYnRYM1znDcV3ZyqgytVFDfQYVYdk-wZU&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=nsf1rthUuqHhp2S08YBeQQ&_nc_ss=7d289&oh=00_AQIw14tjYgRH8vBtrHN6XMlHY74Fpon4Q_J2ykE9WVlYKQ&oe=6AB43F15",
+          "category": "Tennis Court",
+          "addressUrl": "https://www.bing.com/maps/default.aspx?v=2&pc=FACEBK&mid=8100&where1=C.+las+Margaritas%2C+S%2FN%2C+%2C+San+Bartolom%C3%A9+de+Tirajana%2C+Spain%2C+35100&FORM=FBKPL1&mkt=en-US",
+          "ratings": "100% recommend (5 reviews)",
+          "business_hours": "Open now",
+          "ad_status": "This Page isn't currently running ads."
+        },
+        "facebookId": "100063605371164",
+        "pageAdLibrary": {
+          "id": "272415010083410",
+          "pamv_comms_data": null
+        }
+      }
+    ]
+  }
+}
