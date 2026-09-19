@@ -1,0 +1,16 @@
+{
+  "slug": "darrodtennis-test",
+  "companyName": "Darrod Tennis Academy",
+  "existingWebsite": "https://www.darrodtennisacademy.com",
+  "googleBusiness": { "link": "https://maps.app.goo.gl/iexL56wqKn1JvLj2A", "name": "Darrod Tennis Academy", "city": null },
+  "social": { "instagram": "https://www.instagram.com/darrodtennisacademy/", "facebook": "https://www.facebook.com/darrodtennis/", "other": ["https://www.youtube.com/channel/UCZs6e-4XIfETrcPWMejmadw/featured"] },
+  "languages": ["es", "en"],
+  "pageMode": "multi-page",
+  "pages": ["Home", "Academia", "Programas", "Metodología", "Contacto"],
+  "assetPack": null,
+  "moodboard": null,
+  "notes": "Improved version of the current website. No asset pack: use images from the current site and social networks. Moodboard: search Awwwards and Dribbble.",
+  "budgetEur": 3,
+  "socialScrapingEnabled": true,
+  "createdAt": "2026-09-19T09:33:34Z"
+}
