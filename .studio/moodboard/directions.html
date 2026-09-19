@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Darrod Tennis Academy directions</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=Young+Serif&family=Hanken+Grotesk:ital,wght@0,400;0,600;1,400&family=Big+Shoulders+Display:wght@700;800&family=Public+Sans:wght@400;600&display=swap">
+<style>
+  /* Neutral presentation surface. Each .direction sets its own custom properties
+     inline (--d-bg, --d-fg, --d-accent, --d-display, --d-body) to preview itself. */
+  :root { --bg:#f2f2f0; --fg:#1a1a1a; --muted:#6b6b6b; --rule:#d6d6d2; font-family: system-ui, sans-serif; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg); line-height:1.5; }
+  header, .direction { max-width: 1100px; margin: 0 auto; padding: 32px 20px; }
+  header h1 { font-size: 1.25rem; margin: 0 0 4px; }
+  header p { color: var(--muted); margin: 0; max-width: 60ch; }
+  nav a { margin-right: 16px; }
+  .direction { border-top: 1px solid var(--rule); }
+  .direction h2 { margin: 0; font-size: 1.1rem; }
+  .pitch { color: var(--muted); max-width: 65ch; }
+  .grid { display:grid; grid-template-columns: repeat(auto-fit,minmax(280px,1fr)); gap: 24px; }
+  .swatches { display:flex; gap:8px; flex-wrap:wrap; }
+  .swatch { width: 88px; font-size: .75rem; }
+  .swatch i { display:block; height: 56px; border:1px solid var(--rule); margin-bottom:4px; }
+  /* specimen: a live sample in the direction's own colours and type */
+  .specimen { background:var(--d-bg); color:var(--d-fg); padding: 28px; }
+  .specimen h3 { font-family:var(--d-display); font-size: clamp(1.8rem, 5vw, 3rem); line-height:1.05; margin:0 0 12px; }
+  .specimen p { font-family:var(--d-body); margin:0; max-width: 45ch; }
+  .specimen .accent { color:var(--d-accent); }
+  .sketch { display:grid; gap:4px; }
+  .sketch div { border:1px dashed var(--muted); padding:8px; font-size:.75rem; color:var(--muted); }
+  .refs img { width:100%; height:auto; border:1px solid var(--rule); }
+  .check { font-size:.8rem; color:var(--muted); }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Darrod Tennis Academy — 3 directions</h1>
+  <p>Improved version of the current site: warm, personal, coach-led, bilingual. Clay court, raspberry identity or Atlantic light: each bets on a different part of what makes the academy real. None reuses the darrodtennis seed (dark editorial sport).</p>
+  <nav><a href="#d1">Clay &amp; Line</a><a href="#d2">Coach's Whiteboard</a><a href="#d3">Atlantic Filmstrip</a></nav>
+</header>
+
+<article class="direction" id="d1" style="--d-bg:#B4472B;--d-fg:#F7F1E8;--d-accent:#F2C230;--d-display:'Archivo',sans-serif;--d-body:'Archivo',sans-serif">
+  <h2>Clay & Line <small>(clay-court-graphic)</small></h2>
+  <p class="pitch">The page is the court seen from above: real clay red, white court lines as the layout grid, one ball-yellow accent. The subject is literal, so the red is earned, not a default.</p>
+  <div class="grid">
+    <section class="specimen"><h3><span style="font-weight:800;font-stretch:125%;text-transform:uppercase;letter-spacing:-.01em">Jugar al tenis los 365 días del año</span></h3><p>"Bienvenidos a una experiencia de tenis única." (site)</p></section>
+    <section><h4>Palette</h4><div class="swatches"><div class="swatch"><i style="background:#B4472B"></i>Clay #B4472B<br>dominant</div><div class="swatch"><i style="background:#F7F1E8"></i>Line #F7F1E8<br>text / rules</div><div class="swatch"><i style="background:#F2C230"></i>Ball #F2C230<br>accent, CTA only</div><div class="swatch"><i style="background:#2A1610"></i>Ink #2A1610<br>text on light</div><div class="swatch"><i style="background:#E9D6BF"></i>Sand #E9D6BF<br>surface</div></div><p class="check">White-on-clay 4.82:1 (body). Ink-on-clay 3.18:1 so ink is not used on clay. Ink-on-ball 10.27:1.</p><h4>Type</h4><p>Display: Archivo Expanded ExtraBold (Google Fonts), uppercase, tight. Body: Archivo Regular. Reads like scoreboard and court signage; suits a coach-led academy, not a resort.</p></section>
+    <section><h4>Hero and sections</h4><div class="sketch"><div>Hero: full clay field, 1px white court lines frame the page; photo (site-19) sits in a line-bounded box off-centre, headline overlaps its edge</div><div>Programmes as a court diagram: singles / doubles boxes are the three programmes</div><div>Metodología as a numbered drill sequence (a true sequence)</div><div>Team as a row of players on a scoreboard-style table</div><div>Booking: ball-yellow CTA, the only yellow on the page</div></div></section>
+    <section><h4>Signature motion</h4><p>Court lines draw themselves on load (SVG stroke, ~1.2s), revealing the grid; a yellow ball bounces once and lands on the CTA. Reduced motion: lines already drawn, ball static on the CTA.</p><h4>Imagery</h4><p>Full-colour real photos, cropped tight to the line; site-19 (kids on clay) as hero, site-20 (empty court, palms) as a wide band.</p></section>
+    <section class="refs"><h4>References</h4><img src="img/site-19.webp" alt=""><p>Photo used as-is; layout cues taken from court geometry, not from any site.</p></section>
+  </div>
+  <p class="check">Registry check: clear (Archivo · #B4472B · sports-academy) · Critic: PASS (round 2)</p>
+</article>
+<article class="direction" id="d2" style="--d-bg:#C93A6B;--d-fg:#FFFFFF;--d-accent:#2B1420;--d-display:'Young Serif',serif;--d-body:'Hanken Grotesk',sans-serif">
+  <h2>Coach's Whiteboard <small>(coach-whiteboard-warm)</small></h2>
+  <p class="pitch">Built on the client's own raspberry, which is the one colour the current identity already owns. The metaphor is the coach's whiteboard: drills, arrows and footwork drawn over bright photos. Warm and personal, the way the reviews talk about Dani; the hero headline is a real review, quoted.</p>
+  <div class="grid">
+    <section class="specimen"><h3><span>&ldquo;Buen ambiente, profesionalismo y mucha energía.&rdquo;</span></h3><p>Google review, alberto ochotta. Set as a sourced customer quote, not as brand copy.</p></section>
+    <section><h4>Palette</h4><div class="swatches"><div class="swatch"><i style="background:#C93A6B"></i>Raspberry #C93A6B<br>dominant</div><div class="swatch"><i style="background:#FBE4EC"></i>Blush #FBE4EC<br>small panels only, never a page background</div><div class="swatch"><i style="background:#2B1420"></i>Ink #2B1420<br>text</div><div class="swatch"><i style="background:#FFFFFF"></i>White #FFFFFF<br>text on raspberry</div><div class="swatch"><i style="background:#7CC6F2"></i>Sky #7CC6F2<br>fills only, never strokes</div></div><p class="check">White-on-raspberry 4.88:1 (body on the dominant). Ink-on-blush 14.23:1. Diagram strokes are Ink (3.51:1 on raspberry, 14.23:1 on blush) or White on photos; Sky is decoration only. Registry check was run on the dominant Raspberry.</p><h4>Type</h4><p>Display: Young Serif (Google Fonts). Body: Hanken Grotesk. A soft, personal serif with a clean sans; friendly without being childish, works in Spanish and English.</p></section>
+    <section><h4>Hero and sections</h4><div class="sketch"><div>Hero: tall photo left (site-19) with hand-drawn footwork arrows over the players; raspberry block right carries the headline</div><div>Programmes as annotated drill diagrams (court sketch + a line of coach commentary)</div><div>Metodología as a whiteboard page: the one methodology, step by step (a true sequence)</div><div>Team as coach notes: portrait + a line [CONFIRM: roles, bios and the current coach list are unknown, see brief GAPS]</div><div>Reviews set as margin notes beside the photos</div></div></section>
+    <section><h4>Signature motion</h4><p>Scroll-scrubbed: as the hero pins, arrows draw along the players' footwork like a coach sketching the drill (~3s of scroll). Reduced motion: arrows fully drawn.</p><h4>Imagery</h4><p>Bright full-colour photos; SVG line-drawn overlays in Ink and white. Kids are identifiable: consent still open (see brief GAPS).</p></section>
+    <section class="refs"><h4>References</h4><img src="img/site-19.webp" alt=""><p>Photo used as-is; idea of coach annotation drawn from the Google reviews, not from a site.</p></section>
+  </div>
+  <p class="check">Registry check: clear (Young Serif · #C93A6B · sports-academy) · Critic: PASS (round 2)</p>
+</article>
+<article class="direction" id="d3" style="--d-bg:#1B5E8C;--d-fg:#FFFFFF;--d-accent:#FF7A6B;--d-display:'Big Shoulders Display',sans-serif;--d-body:'Public Sans',sans-serif">
+  <h2>Atlantic Filmstrip <small>(atlantic-duotone-filmstrip)</small></h2>
+  <p class="pitch">Ocean blue and a coral warm note: the Canary sky the club plays under all year. Photos are treated as blue duotone contact-sheet frames that turn to full colour when they reach centre, one frame for each day of the year.</p>
+  <div class="grid">
+    <section class="specimen"><h3><span style="font-weight:800;text-transform:uppercase;line-height:.95">Todo el año, a pie de pista</span></h3><p>"Jugar al tenis durante los 365 días del año con el mejor clima del mundo." (site)</p></section>
+    <section><h4>Palette</h4><div class="swatches"><div class="swatch"><i style="background:#1B5E8C"></i>Atlantic #1B5E8C<br>dominant</div><div class="swatch"><i style="background:#FF7A6B"></i>Coral #FF7A6B<br>accent, CTA and one frame highlight</div><div class="swatch"><i style="background:#0B1F2E"></i>Deep #0B1F2E<br>text on light</div><div class="swatch"><i style="background:#EAF2F6"></i>Mist #EAF2F6<br>surface</div><div class="swatch"><i style="background:#FFFFFF"></i>White #FFFFFF<br>text on blue</div></div><p class="check">White-on-Atlantic 6.94:1. Deep-on-Mist 14.83:1. Deep-on-Coral 6.60:1 (coral is never text on blue, 2.73:1). Hero type sits on a Deep scrim over the strip, so white text holds 6.94:1+ in both frame states.</p><h4>Type</h4><p>Display: Big Shoulders Display (Google Fonts), condensed, uppercase. Body: Public Sans. Tall sports-poster letters against a wide horizontal strip.</p></section>
+    <section><h4>Hero and sections</h4><div class="sketch"><div>Hero: headline stacked at bottom-left, overlapping a horizontal strip of duotone frames that runs off both edges</div><div>Programmes as three tall panels of different heights, not equal cards</div><div>Metodología: the academy's one-methodology text set large and static, in the Mist band (the strip is the only pinned moment)</div><div>Team: duotone portraits, names set horizontally beneath</div><div>Booking: Mist surface band with a coral CTA</div></div></section>
+    <section><h4>Signature motion</h4><p>The one pinned moment, a horizontal scroll through the "year" (on phones: a plain swipeable strip, no pinning): duotone frames slide across and each one blooms to full colour as it crosses centre. Reduced motion: static strip, all frames in full colour.</p><h4>Imagery</h4><p>Blue duotone by default, full colour on focus; needs the high-res site images (site-16/18/19/20 are 1600-1920px).</p></section>
+    <section class="refs"><h4>References</h4><img src="img/site-20.jpg" alt=""><p>Photo used as-is. Reference: <a href="https://www.awwwards.com/sites/ljubicic-tennis-academy">Ljubicic Tennis Academy</a> (Awwwards SOTD): confident typography and photo/video on one page. Not captured: its live site returned an SSL error.</p></section>
+  </div>
+  <p class="check">Registry check: clear (Big Shoulders Display · #1B5E8C · sports-academy) · Critic: PASS (round 2)</p>
+</article>
+</body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "chosenAt": "2026-09-19",
+  "approvedBy": "admin",
+  "direction": "clay-court-graphic",
+  "aesthetic": "clay-court-graphic",
+  "adjustments": [],
+  "palette": [
+    { "name": "Clay", "hex": "#B4472B", "role": "dominant / background" },
+    { "name": "Line", "hex": "#F7F1E8", "role": "text on clay, rules" },
+    { "name": "Ball", "hex": "#F2C230", "role": "accent, CTA only" },
+    { "name": "Ink", "hex": "#2A1610", "role": "text on light surfaces" },
+    { "name": "Sand", "hex": "#E9D6BF", "role": "surface" }
+  ],
+  "typography": [
+    { "role": "display", "typeface": "Archivo (expanded, wdth 125)", "source": "Google Fonts", "weights": [800] },
+    { "role": "body", "typeface": "Archivo", "source": "Google Fonts", "weights": [400, 600] }
+  ],
+  "heroLayout": "clay field framed by white court lines; photo in a line-bounded box off-centre; headline overlaps its edge",
+  "sections": ["programmes as a court diagram", "Metodologia as numbered drill sequence", "team as scoreboard-style table", "booking with ball-yellow CTA"],
+  "signatureMotion": "court lines draw themselves on load (SVG stroke ~1.2s); yellow ball bounces once and lands on the CTA; reduced motion: lines drawn, ball static",
+  "imagery": "full-colour real photos cropped tight to the line; site-19 hero, site-20 wide band",
+  "registryOverride": null,
+  "criticVerdict": "PASS (round 2). Cautions: ball bounce is a cuttable accessory; drops the client's raspberry.",
+  "rejected": ["coach-whiteboard-warm: not chosen", "atlantic-duotone-filmstrip: not chosen"]
+}
