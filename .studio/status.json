@@ -1,6 +1,6 @@
 {
   "slug": "darrodtennis-test",
-  "stage": "moodboard",
+  "stage": "design",
   "stages": [
     "intake",
     "research",
@@ -31,7 +31,23 @@
   "design": {
     "route": null,
     "timeSpentMinutes": null,
-    "rating": null
+    "rating": null,
+    "startedAt": "2026-09-19T11:55:11Z",
+    "routes": {
+      "B": {
+        "minutes": null,
+        "rating": null,
+        "chosen": false,
+        "criticVerdict": "a PASS (round 2), b REVISE fixed after round 2"
+      },
+      "A": {
+        "minutes": null,
+        "rating": null,
+        "chosen": false,
+        "criticVerdict": null,
+        "note": "pack built, awaiting owner run in Claude Design"
+      }
+    }
   },
   "preview": {
     "url": null,
@@ -67,8 +83,32 @@
       "stage": "moodboard",
       "event": "stage-change",
       "note": null
+    },
+    {
+      "at": "2026-09-19T11:55:11.683Z",
+      "stage": "design",
+      "event": "stage-change",
+      "note": null
+    },
+    {
+      "at": "2026-09-19T11:55:11.769Z",
+      "stage": "design",
+      "event": "set:design.startedAt",
+      "note": null
+    },
+    {
+      "at": "2026-09-19T12:10:59.283Z",
+      "stage": "design",
+      "event": "set:design.routes.B",
+      "note": null
+    },
+    {
+      "at": "2026-09-19T12:10:59.377Z",
+      "stage": "design",
+      "event": "set:design.routes.A",
+      "note": null
     }
   ],
   "createdAt": "2026-09-19T09:33:35.249Z",
-  "updatedAt": "2026-09-19T11:50:59.908Z"
+  "updatedAt": "2026-09-19T12:10:59.379Z"
 }

@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Academia de tenis en Maspalomas, Gran Canaria | Darrod Tennis Academy</title>
+<meta name="description" content="Clases de tenis y pádel en pista de tierra batida, todo el año, en Maspalomas. Niños, adultos y vacaciones. Reserva tu clase.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --clay:#B4472B; --line:#F7F1E8; --ball:#F2C230; --ink:#2A1610; --sand:#E9D6BF;
+  --font:'Archivo',system-ui,sans-serif;
+  --fs-base:1.0625rem; --fs-sm:.85rem; --fs-lg:1.42rem; --fs-xl:1.78rem; --fs-2xl:clamp(1.6rem,6.4vw,4.5rem); --fs-display:clamp(2.4rem,6.6vw,6.2rem);
+  --gutter:clamp(16px,4vw,48px);
+}
+*{box-sizing:border-box}
+html,body{overflow-x:clip}
+body{margin:0;background:var(--clay);color:var(--line);font:400 var(--fs-base)/1.5 var(--font);position:relative}
+h1,h2,h3{font-stretch:125%;font-weight:800;text-transform:uppercase;letter-spacing:-.01em;line-height:.95;margin:0}
+p{margin:0;max-width:58ch}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--ball);outline-offset:3px}
+.on-sand{background:var(--sand);color:var(--ink)}
+.on-sand :focus-visible{outline-color:var(--ink)}
+/* page grid: court lines run the full height as the layout's columns */
+.lines{position:absolute;inset:0;pointer-events:none;z-index:2;display:grid;grid-template-columns:repeat(4,1fr);padding:0 var(--gutter)}
+.lines i{border-left:1px solid rgba(247,241,232,.28);transform-origin:top}
+.lines i:last-child{border-right:1px solid rgba(247,241,232,.28)}
+main,header,footer{position:relative;z-index:1}
+.pad{padding-left:var(--gutter);padding-right:var(--gutter)}
+.btn{display:inline-block;background:var(--ball);color:var(--ink);font-weight:800;font-stretch:110%;text-transform:uppercase;text-decoration:none;padding:18px 30px}
+.btn:hover{background:var(--line)}
+header{background:var(--clay);display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap;padding-top:18px;padding-bottom:18px}
+.mark{font-stretch:125%;font-weight:800;text-transform:uppercase;text-decoration:none;line-height:1}
+nav{display:flex;gap:24px;align-items:center;flex-wrap:wrap;font-weight:600}
+nav a{text-decoration:none}nav a:hover{text-decoration:underline}
+.lang{border:1px solid var(--line);padding:2px 8px;font-size:var(--fs-sm)}
+/* hero: full-bleed photo, clay panel rising from bottom-left */
+.hero{position:relative;min-height:88vh;display:flex;align-items:flex-end;background:var(--ink) url(../assets/site-19.webp) 40% 55% / cover}
+.hero .panel{z-index:1;background:var(--clay);color:var(--line);width:min(940px,92%);padding:clamp(24px,4vw,56px);margin-left:var(--gutter);position:relative;transform:translateY(64px)}
+.hero h1{font-size:var(--fs-display);line-height:.9}
+.hero .sub{margin:22px 0 28px;font-size:var(--fs-lg);line-height:1.25;max-width:26ch}
+.hero .row{display:flex;gap:22px;align-items:center;flex-wrap:wrap}
+.hero .row a.plain{font-weight:600}
+.cta-wrap{position:relative;display:inline-block}
+.ball{position:absolute;left:-16px;top:-16px;width:30px;height:30px;border-radius:50%;background:var(--ball);border:2px solid var(--clay)}
+.ball::after{content:"";position:absolute;inset:3px;border-radius:50%;border:2px solid var(--line);border-left-color:transparent;border-right-color:transparent;opacity:.75}
+.drawn{position:absolute;left:0;right:0;bottom:0;height:12px;width:100%;pointer-events:none}
+.drawn line{stroke:var(--line);stroke-width:3;vector-effect:non-scaling-stroke}
+.sec{padding-top:clamp(64px,9vw,128px);padding-bottom:clamp(64px,9vw,128px)}
+.sec.first{padding-top:clamp(120px,14vw,200px)}
+h2{font-size:var(--fs-2xl)}
+/* method: sticky heading left, drills stacked right */
+.method{display:grid;grid-template-columns:5fr 7fr;gap:var(--gutter);align-items:start}
+.method .stick{position:sticky;top:24px}
+.method img{display:block;width:100%;height:240px;object-fit:cover;object-position:50% 40%;margin-top:32px;border:1px solid var(--line)}
+.drill{padding:28px 0;border-top:2px solid currentColor}
+.drill p{font-size:var(--fs-lg);line-height:1.3}
+.method .close{border-top:2px solid currentColor;padding-top:28px;font-weight:600;font-size:var(--fs-lg)}
+/* reviews: single strip on clay */
+.quote{background:var(--sand);color:var(--ink)}
+.quote blockquote{margin:0;max-width:1000px}
+.quote p.big{font-stretch:125%;font-weight:800;text-transform:uppercase;font-size:clamp(1.6rem,4.2vw,3.2rem);line-height:1.02;max-width:none}
+.quote cite{display:block;margin-top:20px;font-style:normal;font-weight:600;font-size:var(--fs-sm)}
+.quote .more{display:grid;grid-template-columns:1fr 1fr;gap:var(--gutter);margin-top:44px;border-top:1px solid var(--ink);padding-top:24px}
+.quote .more p{font-size:1.05rem}
+/* programmes + prices merged: ruled rows */
+.rows{margin-top:40px;border-bottom:2px solid var(--line)}
+.row2{display:grid;grid-template-columns:5fr 7fr;gap:var(--gutter);padding:26px 0;border-top:2px solid var(--line);align-items:baseline;min-width:0}
+.row2>*{min-width:0;overflow-wrap:anywhere}
+.row2 h3{font-size:var(--fs-xl)}
+.row2 p{font-size:var(--fs-base)}
+.prices{margin-top:72px;display:grid;grid-template-columns:repeat(4,1fr);border-top:2px solid var(--line);border-bottom:2px solid var(--line)}
+.prices div{padding:22px 18px;border-right:1px solid var(--line)}
+.prices div:last-child{border-right:0}
+.prices small{display:block;font-weight:600;font-size:var(--fs-sm)}
+.prices strong{font-stretch:125%;font-weight:800;font-size:clamp(1.8rem,4vw,3rem);line-height:1.1}
+.note{margin-top:14px;font-size:var(--fs-sm)}
+.band{height:clamp(220px,34vw,460px);background:var(--ink) url(../assets/site-20.jpg) 50% 60% / cover}
+/* book */
+.book{display:grid;grid-template-columns:7fr 5fr;gap:var(--gutter);align-items:start}
+.book form{display:grid;gap:14px}
+label{font-weight:600;font-size:var(--fs-sm);display:grid;gap:4px}
+input,textarea,select{font:inherit;padding:12px;border:2px solid var(--ink);background:var(--line);color:var(--ink);border-radius:0}
+address{font-style:normal;margin-top:28px;border-top:2px solid var(--ink);padding-top:16px}
+footer{padding:22px var(--gutter);font-size:var(--fs-sm);border-top:1px solid var(--line)}
+@media (max-width:820px){
+  .hero{min-height:78vh}
+  .hero .panel{width:calc(100% - 2*var(--gutter))}
+  .method,.book,.row2,.quote .more{grid-template-columns:1fr}
+  .method .stick{position:static}
+  .drill{padding:22px 0}
+  .prices{grid-template-columns:1fr 1fr}
+  .prices div:nth-child(2){border-right:0}
+  .prices div:nth-child(-n+2){border-bottom:1px solid var(--line)}
+  .lines{grid-template-columns:repeat(2,1fr)}
+}
+</style>
+</head>
+<body>
+<div class="lines" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+<header class="pad">
+  <a class="mark" href="#top">Darrod Tennis Academy</a>
+  <nav aria-label="Principal"><a href="#academia">Academia</a><a href="#programas">Programas</a><a href="#metodologia">Metodología</a><a href="#contacto">Contacto</a><a class="lang" href="#" hreflang="en" lang="en">EN</a></nav>
+</header>
+<main id="top">
+<section class="hero" id="academia">
+  <div class="photo-alt" role="img" aria-label="Niños entrenando en pista de tierra batida con su entrenador, entre palmeras" style="position:absolute;inset:0"></div>
+  <div class="panel">
+    <h1>Tenis en tierra batida, los 365 días del año</h1>
+    <p class="sub">Clases de tenis y pádel en Maspalomas, Gran Canaria, para todas las edades y niveles.</p>
+    <div class="row">
+      <span class="cta-wrap"><a class="btn" href="#contacto" id="cta">Reserva tu clase</a><span class="ball" id="ball" aria-hidden="true"></span></span>
+      <a class="plain" href="#programas">Ver programas</a>
+    </div>
+    <svg class="drawn" viewBox="0 0 100 1" preserveAspectRatio="none" aria-hidden="true"><line x1="0" y1=".5" x2="100" y2=".5"/></svg>
+  </div>
+</section>
+
+<section class="sec first pad">
+  <div class="method" id="metodologia">
+    <div class="stick"><h2>Un solo método, varios entrenadores</h2>
+      <img src="../assets/site-18.webp" alt="Detalle de una raqueta y una pelota amarilla" loading="lazy"></div>
+    <div>
+      <div class="drill"><p>Todos los entrenadores trabajan con la misma metodología propia.</p></div>
+      <div class="drill"><p>Cambias de entrenador y el trabajo continúa donde lo dejaste.</p></div>
+      <div class="drill"><p>Analizamos tu juego en vídeo para corregir lo que no ves.</p></div>
+      <div class="drill"><p>Juegas con jugadores de tu nivel y haces amistades.</p></div>
+      <p class="close">Mejorando el juego de cada jugador.</p>
+    </div>
+  </div>
+</section>
+
+<section class="sec quote pad on-sand">
+  <blockquote><p class="big">“Sin duda el mejor entrenador de tenis y aún mejor persona de Gran Canaria.”</p><cite>Reseña de Google, 5,0 de 174</cite></blockquote>
+  <div class="more">
+    <blockquote><p>“Te atienden amablemente, te enseñan, corrigen y gracias a ello mejoras mucho”</p><cite>Reseña de Google</cite></blockquote>
+    <blockquote><p>“Las tres horas fueron geniales, ¡gracias, Daniel!”</p><cite>Reseña de Google</cite></blockquote>
+  </div>
+</section>
+
+<section class="sec pad" id="programas">
+  <h2>Elige tu pista</h2>
+  <div class="rows">
+    <div class="row2"><h3>Tenis junior</h3><p>Clases para niños y jóvenes, en grupo o individuales.</p></div>
+    <div class="row2"><h3>Tenis adultos</h3><p>Grupos de vacaciones y clases para todos los niveles.</p></div>
+    <div class="row2"><h3>Pádel</h3><p>Clases privadas y en grupo.</p></div>
+    <div class="row2"><h3>Competición</h3><p>Apoyo para torneos. [CONFIRM: alcance del servicio]</p></div>
+  </div>
+  <div class="prices" role="group" aria-label="Precio por hora de clase">
+    <div><small>1 jugador</small><strong>60 €</strong></div><div><small>2 jugadores</small><strong>80 €</strong></div>
+    <div><small>3 jugadores</small><strong>100 €</strong></div><div><small>4 jugadores</small><strong>120 €</strong></div>
+  </div>
+  <p class="note">Precio por hora de clase. [CONFIRM: cuotas de socio y si el precio incluye pista]</p>
+</section>
+
+<div class="band" role="img" aria-label="Pista de tierra batida vacía con palmeras"></div>
+
+<section class="sec pad on-sand" id="contacto">
+  <div class="book">
+    <div>
+      <h2>Ven a probar la pista</h2>
+      <p style="margin:22px 0 30px">Escríbenos o llámanos. Abrimos todos los días de 8:00 a 21:00.</p>
+      <form onsubmit="return false">
+        <label>Nombre<input name="n" autocomplete="name"></label>
+        <label>Teléfono<input name="t" type="tel" autocomplete="tel"></label>
+        <label>Mensaje<textarea name="m" rows="3"></textarea></label>
+        <span><button class="btn" style="border:0;cursor:pointer;font-size:inherit">Reserva tu clase</button></span>
+      </form>
+    </div>
+    <address>
+      <p>C. las Margaritas, S/N, 35100 Maspalomas</p>
+      <p><a href="tel:+34656604577">+34 656 604 577</a><br><a href="tel:+34928298586">+34 928 298 586</a></p>
+      <p>[CONFIRM: correo de contacto]</p>
+    </address>
+  </div>
+</section>
+</main>
+<footer>© Darrod Tennis Academy, Maspalomas, Gran Canaria</footer>
+<script>
+(function(){
+  var reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var ball=document.getElementById('ball'), line=document.querySelector('.drawn line'), cols=document.querySelectorAll('.lines i');
+  if(reduce||!ball.animate) return;   // lines drawn, ball resting on the CTA
+  cols.forEach(function(c,i){c.animate([{transform:'scaleY(0)'},{transform:'scaleY(1)'}],{duration:1200,delay:i*140,easing:'cubic-bezier(.22,.61,.36,1)',fill:'backwards'});});
+  line.animate([{strokeDasharray:'100 100',strokeDashoffset:100},{strokeDasharray:'100 100',strokeDashoffset:0}],{duration:1200,easing:'cubic-bezier(.22,.61,.36,1)',fill:'backwards'});
+  ball.animate([
+    {transform:'translateY(-380px)',opacity:0,offset:0},
+    {transform:'translateY(-380px)',opacity:1,offset:.3},
+    {transform:'translateY(0)',offset:.65,easing:'ease-in'},
+    {transform:'translateY(-40px)',offset:.82,easing:'ease-out'},
+    {transform:'translateY(0)',offset:1,easing:'ease-in'}
+  ],{duration:1900,delay:900,fill:'backwards'});
+})();
+</script>
+</body>
+</html>
